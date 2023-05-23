@@ -1,0 +1,4156 @@
+The Truth
+
+
+
+
+
+Terry Pratchett's
+
+
+
+
+
+The Truth
+
+
+
+
+
+adapted by
+
+Stephen Briggs
+
+
+
+
+
+Methuen Drama
+
+
+
+
+
+Methuen
+
+
+
+
+
+1 3 5 7 9 10 8 6 4 2
+
+
+
+
+
+Published in Great Britain in 2002 by
+
+Methuen Publishing Limited
+
+215 Vauxhall Bridge Road,
+
+London SW1V1EJ
+
+
+
+
+
+Novel copyright © 2000 Terry Pratchett
+
+Adaptation copyright © 2002 Stephen Briggs
+
+
+
+
+
+The authors have asserted their moral rights
+
+
+
+
+
+Methuen Publishing Limited Reg. No. 3543167
+
+
+
+
+
+A CIP catalogue record for this book is available
+
+from the British Library
+
+
+
+
+
+eISBN: 978-1-40811-789-7
+
+
+
+
+
+Typeset by SX Composing DTP, Rayleigh, Essex
+
+Printed and bound in Great Britain by Cox & Wyman Ltd
+
+
+
+
+
+Caution
+
+All rights in these plays are strictly reserved and application for
+
+performances etc. should be made to Colin Smythe Limited, PO Box 6, Gerrards Cross, Buckinghamshire, SL9 8XA. No performance may be given unless a licence has been obtained.
+
+
+
+
+
+This book is sold subject to the condition that it shall not, by way of trade or otherwise, be lent, resold, hired out, or otherwise circulated in any form of binding or cover other than that in which it is published and without a similar condition, including this condition, being imposed on the subsequent purchaser.
+
+
+
+
+
+Contents
+
+
+
+
+
+Introduction
+
+
+
+
+
+Act One
+
+
+
+
+
+Act Two
+
+
+
+
+
+Introduction
+
+
+All the Discworld's a Stage
+
+The first people ever to dramatise the Discworld, in any form, were the Studio Theatre Club in Abingdon, Oxon. That was in 1991, with Wyrd Sisters.
+
+We had already staged our own adaptations of other works: Monty Python's Life of Brian and Holy Grail — and Tom Sharpe's Porterhouse Blue and Blott on the Landscape. We were looking for something new when someone said, 'Try Terry Pratchett - you'll like him.' So I ventured into the previously uncharted territory of the 'Fantasy' section of the local bookstore ('Here be dragons'). I read a Terry Pratchett book; I liked it. I read all of them. I wrote to Terry and asked if we could stage Wyrd Sisters. He said 'Yes'.
+
+Wyrd Sisters sold out.
+
+So did Mort the year after.
+
+So did Guards! Guards!, Men at Arms, Maskerade, Jingo, Carpe Jugulum and The Fifth Elephant in the years after that. In fact, 'sold out' is too modest an expression. 'Oversold very quickly so that by the time the local newspaper mentioned it was on we'd had to close the booking office' is nearer the mark.
+
+My casts were all happy enough to read whichever book we were staging, and to read others in the canon, too. The books stand on their own, but some knowledge of the wider Discworld ethos is essential when adapting the stories, and can also help directors to find out where it's all coming from, and the actors with their characterisations.
+
+The Discworld novels have been getting longer (and darker) as the years pass and it is a problem trying to put over the plot while still meeting the over-riding target for amdram - getting into the pub before closing. The important thing was to decide what the basic plot was: anything which didn't contribute to that was liable to be dropped in order to keep the play flowing. Favourite scenes, even favourite characters, have on occasion had to be dumped. These are hard decisions but the book has to work as a play. You can't get four hundred pages of novel into two and a half hours on stage without sacrifices.
+
+Each play also offers a challenge to directors in working out who can double for whom when working with a smaller cast. You'll see from the cast list, which follows this introduction, how we covered all the roles.
+
+Although the majority of our audiences are 'fans', I've tried to remember when writing the plays that not all the audience will be steeped in Discworld lore. Some of them may just be normal theatre-goers who've never read a fantasy novel in their whole lives; humorous fantasy may not be their 'thing', but I wouldn't want them to feel they were watching something which had been typed on an Enigma machine.
+
+The books are episodic and have a sort of 'cinematic' construction; this can be a difficult concept to incorporate into a play. Set changes slow down the action. Any scene change that takes more than twenty to thirty seconds means you've lost the audience. Even ten-second changes, if repeated often enough, will lead to loss of interest. I've been to see many productions of the plays and the best have been those that have used bare stages or composite sets - leaving the majority of the 'scene-changing' to the lighting technician. The golden rule is: if you can do it without scene-shifting, do it without scene-shifting. It's a concept that has served radio drama very well (everyone knows that radio has the best scenery). And Shakespeare managed very well without it, too.
+
+The plays do, however, call for some unusual props. Over the years, many of these have been made by my casts and crew: large hourglasses for Death's house, shadow puppets, archaic rifles, dragon-scorched books and, of course, Mr Pin's one-shot crossbow pistol for The Truth. Other, more specialised props were put 'out to contract': Death's sword and scythe, an orangutan, Detritus's head and hands, a Death of Rats, a Greebo, Scraps the dog and two swamp dragons (one an elaborate hand puppet and one with a fire-proof compartment in its bottom for a flight scene).
+
+Since the Studio Theatre Club started the trend in 1991, Terry and I have had many enquiries about staging the books - from as far afield as Finland, South Africa, Indonesia, Australia, Bermuda and the Czech Republic (as well as Sheffield, Aberdeen, Exeter and the Isle of Man). Royalties from the five plays administered by me have raised over £35,000 so far for the Orangutan Foundation.
+
+So how did our productions actually go? We enjoyed them. Our audiences seemed to enjoy them (after all, some of them were prepared, year after year, to travel down to Abingdon in Oxfordshire from Taunton, Newcastle-upon-Tyne, Ipswich, Basingstoke and . . . well, Oxford). Terry seems to enjoy them, too. He says that many of our members look as though they have been recruited straight off the streets of Ankh-Morpork. He says that several of them were born to play the 'rude mechanicals' in Vitoller's troupe in Wyrd Sisters, and that in his mind's eye the famous Ankh-Morpork City Watch are the players of the Studio Theatre Club.
+
+I'm sure these were meant to be compliments.
+
+
+The Truth
+
+By the time we staged The Truth in 2000, we knew that the Discworld plays were a winner . . . though we'd learned that the flourishing trade in other groups staging the plays meant that we couldn't afford to take full houses for granted. They're still full, but we do have to work a bit now to achieve that.
+
+As with all the adaptations, there were difficult choices about which scenes should be sacrificed to try and keep the play down to a reasonable running time. We had also realised that Abingdon's medieval Unicorn Theatre was a part of the package; it has its shortcomings, but its ambience contributed much to the original success of the shows.
+
+This dramatisation was written with the Unicorn Theatre's restrictions, and the number of players I expected to have available, in mind. Really complicated scenic effects were virtually impossible. Basically, we had a bare stage with an on-stage balcony at the back with a small curtained area beneath it. Anyone thinking of staging a Discworld play can be as imaginative as they like - call upon the might of Industrial Light & Magic, if it's within their budget. But The Truth can be staged with only a relatively modest outlay on special effects and the notes that accompany the text are intended to be a guide for those, like us, with limited budgets. Bigger groups, with teams of experts on hand, can let their imaginations run wild!
+
+In short, though, our experience and that of other groups is that it pays to work hard on getting the costumes and lighting right, and to keep the scenery to little more than, perhaps, a few changes of level enhanced by lighting effects and carefully chosen background music. There's room for all sorts of ideas here. The Discworld, as it says in the books, is your mollusc.
+
+Characterisation: Within the constraints of what is known and vital about each character, there is still room for flexibility of interpretation. With the main roles, though, you have to recognise that your audiences will expect them to look as much like the book descriptions as possible. Most drama clubs don't have a vast range from which to choose, though, and it's the acting that's more important than the look of the player when it comes down to it! The Discworld Companion gives some background information about the City Watch and Lord Vetinari but most of the characters in this play are new.
+
+Costumes: We played most of the Ankh-Morpork characters in a form of Victorian dress, with the dwarfs in leather armour, boots, helmets, etc. Otto was dressed as the classic, Bela Lugosi, vampire. Pin and Tulip were in black suits with black sunglasses - a sort of cross between Agent Smith in Matrix and the MIB agents in Men in Black.
+
+Scenery: Virtually none. Our major set-piece was the printing press, which we hired in London. Apart from that, there were just the odd bits of furniture.
+
+Oh, and a word on pronunciation . . . Having seen many of the plays staged, pronunciation of the names seems sometimes to be a stumbling block. Here are some pointers:
+
+
+
+
+
+Thinking of staging it? Although Methuen control the amateur rights for The Truth, Terry and I are keen to know which of our plays are being staged where, so do feel free to write to me or email me with your production dates, just in case one of us can get to see your show. I also have some stocks of a snazzy Uberwald League of Temperance badge . . . I can be contacted either via Methuen, or via email at sbriggs@cix.co.uk
+
+Stephen Briggs
+
+February 2002
+
+
+
+
+
+The Truth
+
+
+
+
+
+The Truth, dramatised by Stephen Briggs, was first presented by the Studio Theatre Club at the Unicorn Theatre, Abingdon, on Tuesday 21 November 2000. The cast was as follows:
+
+
+
+*This actor, originally playing Coffin Henry, had to take over these two parts at the last minute, meaning that his old lines had to be spread out among the other beggars
+
+Director Stephen Briggs
+
+Lighting/Effects Colin James
+
+Sound Phil Evans
+
+Stage Manager Catherine Long
+
+
+
+
+
+Act One
+
+Scene One
+
+A bare stage. Gaspode is discovered onstage.
+
+Gaspode Wotcha. I'm Gaspode. Yes, I know dogs aren't meant to be able to talk, but this is Discworld, where magic has a way of bending the normal rules of science. Our story takes place in the Disc's principle city, Ankh-Morpork. A city so lawless that even the thieves go around in twos. Our story starts with a rumour. It spread around this great city like wildfire - in fact wildfire itself has spread through Ankh-Morpork quite a few times since its citizens learned about fire insurance, but I digress . . .
+
+He looks conspiratorially to left and right.
+
+It even reached the ears of the city's Night Watch.
+
+He looks up at Nobby and Colon, who have entered into a raised part of the stage.
+
+The dwarfs can turn lead into gold.
+
+Cpl Nobbs and Sgt Colon are leaning on the rail as if on the dockside. Water lapping. Water effect.
+
+Corporal Nobbs You can't turn sumfin' into sumfin' else. Alchemists have bin tryin' it for years.
+
+Sergeant Colon They can usually manage to turn an house into an 'ole in the ground.
+
+Corporal Nobbs That's what I mean. Can't be done. It's all to do wiv elephants, see. Everything's made of elephants, see? Earth, air . . .
+
+Sergeant Colon Elements, Nobby. Elements, not elephants.
+
+Corporal Nobbs Yeah right. Anyway, everything's made of them: earth, air, fire, water and . . . sunnink. Well-known fact.
+
+Sergeant Colon If it was possible to turn lead into gold, we'd all be doin' it.
+
+We hear a splash of oars, off.
+
+Corporal Nobbs Wizards could do it.
+
+Sergeant Colon (dismissively) Oh, well, magic.
+
+Corporal Nobbs Hang on, there's someone down there.
+
+Sergeant Colon In the river? (He listens.) Oi! You!
+
+Mr Pin (off) Yes?
+
+Sergeant Colon Are you invadin' the city, or what?
+
+Mr Pin (off, after a short pause) What?
+
+Sergeant Colon What what?
+
+Mr Pin (off) What were the other options?
+
+Sergeant Colon Don't mess me about . . . are you, down there in that boat, invading this city?
+
+Mr Pin (off) No.
+
+Sergeant Colon Fair enough. Get a move on, then.
+
+The boat noise moves off.
+
+Corporal Nobbs You reckon that was enough, just askin' them?
+
+Sergeant Colon Well, they ought to know.
+
+Corporal Nobbs Yeah, but . . .
+
+Sergeant Colon It was a tiny little rowing boat, Nobby. Of course, if you want to go all the way down them icy steps to the jetty . . . .
+
+Corporal Nobbs No, sarge.
+
+Sergeant Colon Well, let's get back to the Watch House, then.
+
+They exit. The lapping water effect continues, on a bare stage. We hear the voices, off, of Charlie, Mr Pin and Mr Tulip. Charlie is played by the same actor who plays Lord Vetinari - unless you're blessed with suitable identical twins!
+
+Charlie (off) My nose itches.
+
+Mr Pin (off) You'll just have to wait 'til we get there.
+
+Charlie (off) You could take the mask off again. It really itches.
+
+Mr Tulip (off) Shall I hit him alongside the ___ ___ing head with the ___ing oar again, Mr Pin?
+
+Mr Pin (off) Good idea, Mr Tulip.
+
+There is a dull thump.
+
+Charlie (off) Ow!
+
+'River lights' cross-fade to Gaspode,, who has temporarily been joined by Foul Old Ron.
+
+Gaspode Well, well, well. There's a fing. Man all bundled up and masked. Interesting, eh?
+
+Foul Old Ron Scraplit. Thatch and trouser. I told 'im. I told 'im. Millennium Hand and Shrimp. Buggrit.
+
+Gaspode Looks like a dirty deed to me, too. (To the audience.) Oh, sorry - this is Foul Old Ron. One of the city's best-known and most pungent beggars. He is a Mutterer you know . . . he walks behind people muttering until they give him money not to. He's usually accompanied by his Smell, which has become so powerful over the years that it has developed a life of its own.
+
+Ron sidles off, muttering. 'I told 'em, I told 'em. Millennium Hand and Shrimp. I said, I said, I said. But they only run out . . .'
+
+Gaspode And that's about it for the intro. Ooh, no, sorry, nearly forgot our main character, Mr William de Worde.
+
+The lights come up on William, writing.
+
+He heard the rumour, too . . . and he duly wrote it down. 'Cos that's what he does, see? He writes down rumours and other news in a letter, then sends it to rulers and nobs in other cities and countries so they can keep up-to-date with what's goin' on here in Ankh-Morpork.
+
+William de Worde (reading) '. . . and finally, on a lighter note, it is being said that the dwarfs can turn lead into gold, though no-one knows where this rumour has started. And anyone under five foot tall is liable to be accosted by newcomers to the city, shouting 'Ho there, short stuff, let's see you make some gold then'. Only newcomers do this, of course, because everyone else knows what you call people who call dwarfs 'short stuff. 'The deceased.' Yr obedient servant, William de Worde'. Right, well let's get this block off to Mr Cripslock.
+
+He exits.
+
+Gaspode 'Cos he sends so many letters, he only actually writes one, which he then transfers onto a wooden block and then has it cut into a printing block by Mr Cripslock, the engraver. Then he prints off a wadge of copies, fills in the 'Dear Lady Margolotta' s and so on, and everyone thinks he's offerin' a personal service. Clever, eh? And it pays quite well, too.
+
+As William enters at stage level, two dwarfs enter carrying a large piece of equipment which hopefully looks like a chunk of an ancient printing press. One of them is Gunilla Goodmountain. Another is Boddony, who is walking backwards. They collide and William drops the cloth/woodblock. Gunilla Goodmountain picks up the wrapped plate and opens it to reveal that it is now broken into two pieces.
+
+Gunilla Sorry. Yours, I think. What was it meant to be?
+
+William de Worde A block prepared for a woodcut. You know? Engraving? (Explaining, as if to a child) A sort of magical way of getting lots of copies of writing? I shall have to go and make another one, now.
+
+Gunilla keeps looking at the broken pieces.
+
+You see, the engraver cuts away bits of the wood . . .
+
+Gunilla You still got the original?
+
+William de Worde Pardon?
+
+Gunilla The original. (William produces the original letter from a pocket.) Can I borrow it for a moment? (William passes it over.) Hmm. We'll need ten point across three. (To William.) Just you step this way, will you? My card. (He hands over a card to William.)
+
+William de Worde 'Gunilla Goodmountain & Co. Respectfully Solicit Work for Their New Word Smithy' . . . This is very good - you've got the letters very even and neat - you must have a very steady hand.
+
+Gunilla No, not really.
+
+They move across into the print room. One of the dwarfs removes the cloth over the press.
+
+Lead moveable type, see?
+
+William de Worde Oh dear. This is printing, isn't it?
+
+Blackout.
+
+Scene Two
+
+The Patrician's Palace. Lord Vetinari is on-stage. Nearby Wuffles, a wheezy old terrier, is asleep in his basket. Drumknott enters, followed by Hughnon Ridcully.
+
+Drumknott Archbishop Ridcully to see you, my lord.
+
+He exits.
+
+Hughnon Ridcully My Lord . . .
+
+Lord Vetinari Ah, Hughnon. You wish to complain about the dwarfs' new printing press?
+
+Hughnon Ridcully (slightly taken aback) Well . . . yes. You must put a stop to this, Havelock. You know the . . . understanding.
+
+Lord Vetinari 'Must', your reverence?
+
+Hughnon Ridcully You know why we're against this moveable type nonsense.
+
+Lord Vetinari Remind me again.
+
+Hughnon Ridcully (with a sigh) Words are too important to be left to mere machinery. We have nothing against engraving, you know that. We've nothing against words being nailed down properly. But words that can be taken apart and then used to make other words - well, that's positively dangerous. I thought that was your view, too.
+
+Lord Vetinari Broadly, yes. But many years of ruling this city has taught me that you cannot apply brakes to a volcano. Sometimes it is best just to let things run their course.
+
+Hughnon Ridcully You haven't always been this relaxed, Havelock.
+
+Lord Vetinari Flexibility and understanding have always been my watchwords.
+
+Hughnon Ridcully My God, have they?
+
+Lord Vetinari Indeed. And of course, it is increasingly hard to ignore this new type, aha, of printing when vast printeries already exist in Omnia. The Omnians, as you know, import vast quantities of holy books and pamphlets.
+
+Hughnon Ridcully Evangelical nonsense. You should have banned them years ago.
+
+Lord Vetinari Ban a religion, your reverence?
+
+Hughnon Ridcully Well, when I say ban, I mean . . .
+
+Lord Vetinari > I'm sure no-one could call me a despot, your reverence.
+
+Hughnon Ridcully Not twice at any rate, ahaha.
+
+Lord Vetinari I'm sorry?
+
+Hughnon Ridcully I said . . . 'Not twice, at any rate, ahaha.'
+
+Lord Vetinari I do apologise . . . you seem to have lost me there.
+
+Hughnon Ridcully It was, uh, a minor witticism, Havelo . . ., er, my lord.
+
+Lord Vetinari Oh. Yes. Ahah. (Pause.) The Guild of Engravers has put its rates up three times in the past year, you know.
+
+Hughnon Ridcully Ah. I see.
+
+Lord Vetinari Civilisation runs on words, your reverence. Which should not be too expensive. Look out of the window. Tell me what you see.
+
+Hughnon Ridcully (pause) Fog.
+
+Lord Vetinari (slightly testily) If it was afineday you would see the big semaphore tower across the river. Words fly back and forth from every corner of the continent. A year ago it would have taken a month to exchange letters with my ambassador in Borogravia. Now I can have a reply tomorrow. If we don't grab events by the collar they will have us by the throat.
+
+Hughnon Ridcully Is it me, or is there a terrible smell in here?
+
+He sniffs about, then realises to his embarrassment that the smell is emanatingfrom Lord Vetinari's dog, Wuffles.
+
+Ah. Yes, Wuffles. Of course. Ahaha. Hrm. He's doing very well, er, for a dog of his age. Um, how old is he now?
+
+Lord Vetinari Sixteen. That's over a hundred in dog years.
+
+Hughnon Ridcully Excellent. Yes. Hrm. He must be a great companion and I expect you get used to the smell.
+
+Lord Vetinari What smell?
+
+Wuffles shuffles across to Ridcully and leans against him.
+
+Hughnon Ridcully Ah. Yes. Indeed.
+
+Lord Vetinari (after a chilly pause) However, I will pay a visit to these dwarf printers.
+
+Drumknott enters.
+
+Drumknott Yes, my lord?
+
+Lord Vetinari Have my coach made ready, will you?
+
+Drumknott Yes, my lord.
+
+Drumknott exits. Ridcully pats Wuffles embarrassedly, as the lights black out.
+
+Scene Three
+
+A cellar somewhere. As the lights come up, Mr Pin, Mr Tulip and Mr Slant enter. Mr Tulip is sniffing at a white powder on his hand.
+
+Mr Slant That is him. It's a trick, isn't it?
+
+Mr Pin I assure you that it is not him. If it were, we'd all be damned for sure.
+
+Mr Slant But he is the very spitting image . . . I must reiterate; I am a mere facilitator in this matter.
+
+Mr Tulip Just like us.
+
+Mr Slant Quite . . . so. My clients wished me to find some experts. I found you. I gave you some sealed instructions and you have made some . . . arrangements. I do not know what those arrangements are. I will continue not to know, do you understand? You and I see each other when absolutely necessary.
+
+Mr Tulip I hate ___ing zombies.
+
+Mr Slant I am sure the feeling is mutual.
+
+Mr Pin You're sayin' if this goes bad, you've never seen us in your life . . .
+
+Mr Slant coughs.
+
+. . . Your afterlife. OK. What about the money? In gems, remember, not cash.
+
+Mr Slant Of course. My clients could hardly write you a cheque. It will be delivered tonight. Oh, perhaps you should see this.
+
+He hands a document to M r Pin, who reads
+
+You may show it to your monkey.
+
+Tulip makes to grab for Slant, but Pin stops him.
+
+Mr Pin He's got the story of our lives, Mr Tulip.
+
+Mr Tulip So? I can still rip his ___ing stitched-on head right off!
+
+Mr Slant I fear not. Mr Pin?
+
+Mr Pin Because he'll have placed copies of this all over the city, I guess. He knows stuff we wouldn't want leaking out.
+
+Mr Tulip What? Even about the puppies and that kid?
+
+Mr Pin He does now. He knows where the bodies are buried, see.
+
+Mr Slant I've even talked to one or two of them. So . . . if anything happens to me . . . that document would go straight to . . . well, straight to people you wouldn't want to know. I hope that you have a crime-free stay in our city. The City Watch are very dogged in some respects.
+
+Mr Pin We hold the police in very high regard.
+
+Mr Tulip We ___ing love policemen.
+
+Mr Pin If there was a policemen's ball, we'd be the first to buy a ticket.
+
+Mr Tulip Specially if it was mounted on a plinth, or something.
+
+Mr Slant I just wanted to make sure we understood one another. (He coughs) I believe my clients wish to see the . . . merchandise, as it were, /will, of course, not be involved in this element . . .
+
+Mr Pin Of course.
+
+Mr Slant If you would wait here a moment. I will let them know it is safe to enter.
+
+He exits.
+
+Mr Pin Time to meet the bosses, eh? Nice place this, eh?
+
+Mr Tulip Nah. I fort that at the start but it's just a late eighteenth century copy of the ___ing Baroque style. They got the dimensions all wrong. Didja see them pillars in the hall? ___ing sixth century Ephebian with second Empire Djelibeybian finials! It was all I could do not to ___ing laugh.
+
+Mr Pin You are a very unexpected man, Mr Tulip.
+
+Mr Tulip walks over to look at a painting on the fourth wall'.
+
+Mr Tulip Well me, it's a ___ing da Quirm. 'Woman Holding Ferret'. He did it just after he moved from Genua and was influenced by Caravati. Look at that___ing brushwork, will ya? Look at his use of___ing light and the way the ferret's nose follows you round the room. That's___ing genius, that is . . .
+
+The hooded and robed city bosses have entered. One of them, as we shall later discover, is Lord de Worde. The others include Lord Rust, Lady Selachii, Lady Venturi.
+
+Lord de Worde Perhaps your colleague would like it as a present?
+
+Mr Pin Mr Tulip does not collect art, he merely appreciates it. Our payment will be in gems, as agreed.
+
+Lord Rust Where is your . . . protege?
+
+Mr Pin gestures to Mr Tulip to fetch Charlie. Tulip exits.
+
+When will you be ready?
+
+Mr Pin We think Tuesday would be a good time. By then he'll be as good as he's going to get.
+
+Lord de Worde And there will be no deaths involved? This is important.
+
+Mr Pin Mr Tulip will be as gentle as a lamb.
+
+Lord de Worde Er . . .yes. His Lordship is not to be harmed any more than is strictly necessary. Vetinari dead would be more dangerous than Vetinari alive.
+
+Mr Tulip enters, with a hooded and masked Charlie,, who remains with his back to the audience. He removes his mask.
+
+Lord Rust My gods! It's not him - is it?
+
+Mr Pin No.
+
+Lord Rust But why can't we just replace him?
+
+Mr Pin Our man is of rather low intelligence.
+
+Lord de Worde Astonishing. This has to work. Lord Vetinari may be prepared to see humans become a minority group in their own city but even so his death by assassination would cause turmoil.
+
+Lord Rust And turmoil is difficult to control.
+
+Lady Selachii Too many people have an interest in taking over. This doppelganger will provide us with an opportunity to slide gently from one condition to another.
+
+Mr Pin draws Lord de Worde to one side.
+
+Mr Pin It makes no odds to my colleague or me but what would happen to our, friend, once you have slid gently from one condition to another?
+
+Lord de Worde I'm sure there are ways to dispose of a man whose face no longer fits, eh? (He laughs.) But there must be no trouble with the Watch. Commander Vimes is running a very efficient force.
+
+Mr Pin Yes, Mr Slant told us . . .
+
+Lady Selachii And it employs a werewolf.
+
+Mr Tulip A___ing werewolf? Are you___ing crazy?
+
+Lord Rust Why does your colleague keep saying '___ing', Mr Pin?
+
+Mr Tulip You must be out of your___ing minds!
+
+Mr Pin Speech impediment. A werewolf? Thank you for telling us. They're worse than vampires when they're on the trail. You do know that, do you?
+
+Lord de Worde Mr Slant will discuss this with you.
+
+Mr Tulip They got a sense of smell you wouldn't believe.
+
+Mr Pin Any more surprises? What kind of a city are you running here?
+
+Lady Selachii We are not running the city. Yet.
+
+Lord de Worde We look forward to seeing you again, gentlemen. Tomorrow night. When, I trust, you will announce your readiness. Good night.
+
+The robed figuresexit.
+
+Mr Pin So, Charlie, how about it?
+
+Charlie It's not illegal, is it?
+
+Mr Pin What's legality, Charlie? Just words on paper. But you won't be doing anything wrong.
+
+Charlie But ten thousand dollars doesn't sound like the sort of money you get for doing something right. Not for saying a few words.
+
+Mr Pin Well, you are a special man, Charlie. And afterwards you will have to stay out of sight for a very long time.
+
+Mr Tulip Yeah.
+
+Charlie But why did you have to kidnap me? And keep me padlocked in a mask? One minute I was running my nice little clothes shop in Pseudopolis, next thing, I'm . . .
+
+Mr Pin There's no point in dwelling on the past, my friend. This is a business. All we want is a few days of your time, and then you end up with a fortune and - and I believe this is important, Charlie - a lifetime in which to spend it.
+
+Charlie But how do you know I won't tell anyone?
+
+Mr Pin We trust you, Charlie. Now, you go and wait outside for us. Mr Tulip and I will join you shortly. Mask.
+
+Charlie puts on the mask and exits.
+
+Mr Tulip Do we?
+
+Mr Pin Do we what?
+
+Mr Tulip Do we___ing trust him?
+
+Mr Pin Of course we don't. What do you think? Do you know, he actually thinks he can outsmart me. He might look like Lord Vetinari, but he can't think like him. He's smart enough to run a small clothes shop, but that's it. Got to admire him, though. Almost.
+
+Mr Tulip Too___ing right.
+
+Mr Tulip takes another sniff of his white powder.
+
+Mr Pin (sees the bag) What have you got now? (He puts his finger in and then licks the end) That's table salt. Shall I try again? Listen carefully - drugs equal chemicals but chemicals don't always equal drugs. Remember all that trouble with the calcium carbonate? You shoved so much up your nose we could've cut your head off and written on a blackboard with your neck.
+
+Mr Tulip It made me feel good.
+
+Mr Pin You've got to stop buying anything you're offered in the street in little bags. You've had flour, baking powder, chalk, salt - oh, and pickled beef sandwiches.
+
+Blackout.
+
+Scene Four
+
+The print room. A couple of dwarfs are working at the press. William and Gunilla are discussing a proofsheet. Lord Vetinari enters.
+
+Lord Vetinari Why, Lord de Worde, I hadn't realised you were involved in this.
+
+William de Worde It's Mister de Worde, my lord.
+
+Lord Vetinari Of course. But how is your father?
+
+William de Worde I . . . don't see much of him, my lord.
+
+Lord Vetinari A pity. Are you in charge here?
+
+William de Worde Mr Goodmountain does most of the talking, sir.
+
+Goodmountain crosses to them.
+
+Lord Vetinari I want to be certain this project is not doomed to failure. Is Mr CMOT Dibbler involved in any way?
+
+William de Worde What?
+
+Lord Vetinari Shifty fellow, sells sausages . . .
+
+William de Worde No, no, just the dwarfs.
+
+Lord Vetinari I see. And is this building built on a crack in the space-time continuum?
+
+Gunilla What?
+
+Lord Vetinari When one has been ruler of this city as long as I have, one gets to know with a sad certainty that whenever some well-meaning soul begins a novel enterprise they always manage to site it at a point where it will do maximum harm to the fabric of reality.
+
+William de Worde We haven't noticed any cracks.
+
+Lord Vetinari Ah, but possibly on this very site a strange cult engaged in eldritch rites, the very essence of which permeated the neighbourhood just waiting for the right events to trigger them to once again rise and walk around eating people?
+
+Gunilla I don't have to take that kind of talk, mister. Who do you think you are?
+
+William de Worde (stepping in quickly) I wonder if I might just explain one or two things to Mr Goodmountain?
+
+Lord Vetinari I'm sure he'll thank you for it later.
+
+William and Gunilla withdraw slightly, and they have a silent but heated conversation. They return.
+
+Gunilla I speak as I find, me. Always have done, always . . .
+
+Lord Vetinari And what is it that you call a spade?
+
+Gunilla Never use 'em. Farmers use spades. But I call a shovel a shovel.
+
+Lord Vetinari Yes, I thought you would.
+
+Gunilla Young William here says you're a ruthless despot who doesn't like printing. But I say you're a fair-minded man who won't stand in the way of an honest dwarf making a bit of a living, right?
+
+Lord Vetinari puts his arm companionably around William's shoulder and leads him to one side.
+
+Lord Vetinari Mr de Worde, a moment, please.
+
+William de Worde I only said that some people call you . . .
+
+Lord Vetinari Now, sir. I think I might be persuaded, against all experience, that your little endeavour can proceed without filling my streets with inconvenient occult rubbish. So I am minded to allow your friends to proceed with their folly. Of course, should there be any occult occurrences, I would hold you personally responsible.
+
+William de Worde Me? But I, er . . .
+
+Lord Vetinari Ah. You think I am being unfair? Ruthlessly despotic, perhaps? You really ought to write to your father more often, you know. I always think it is sad when families fall out. Well, carry on, then. I may even have the occasional job for you myself.
+
+William waves at Gunilla behind Lord Vetinari's back.
+
+Gunilla Special rates for government jobs.
+
+Lord Vetinari I wouldn't dream of paying less than other customers.
+
+Gunilla I wasn't going to charge you less than . . .
+
+William de Worde Well it's been a pleasure to see you, your lordship.
+
+Lord Vetinari walks out of the print shop. Lights cross-fade to raised area where Tulip and Pin watch him leave.
+
+Mr Tulip And he's the man who runs the city?
+
+Mr Pin Yeah.
+
+Mr Tulip So, where's his___ing bodyguards?
+
+Mr Pin If we wanted to scrag him, here and now, how much use would four bodyguards be?
+
+Mr Tulip As a___ing chocolate kettle, Mr Pin.
+
+Mr Pin There you are then. But the man at the top has a lot of friends when things are going well. People tell me this dump is thriving. We wouldn't reach the end of the street.
+
+Mr Tulip From what I hear he doesn't do a___ing thing!
+
+Mr Pin Yeah. One of the hardest things to do properly, in politics.
+
+Mr Tulip taking a secretive sniff out of a paper bag.
+
+Mr Tulip It'd be simpler to ___ing kill him.
+
+Mr Pin Oh, for a ___ing simple world.
+
+He turns and sees the bag. He takes it and samples it.
+
+You do know this is only washing soda?
+
+Mr Tulip Sorry.
+
+Mr Pin (with a sigh) Come on, let's feed the geek.
+
+Cross-fade back to print room. William has been writing in his notebook. Gunilla has been working at the press and crosses to William with a printed sheet.
+
+William de Worde (readingfrom the paper) 'Lord Vetinari appeared to have enjoyed his visit. He said . . .' (He looks down the page) 'A fight broke out in the Mended Drum tavern last night. A ruckus commenced and five or six people were hurt. Brezock the Barbarian . . .' You know,
+
+Gunilla, once it's been set out, all neat and regular, it looks somehow more real.
+
+Gunilla And what do we call this news sheet? What do you usually put at the top of your news letter thingies?
+
+William de Worde Generally just 'To My Lord the . . .'
+
+Gunilla Need something snappier than that.
+
+William de-Worde How about 'Ankh-Morpork Items'?
+
+Gunilla (over his shoulder) Boddony - set that would you?
+
+In the background, Boddony sets the banner.
+
+Still looks a bit grey though. All the type bunched up. How about if we put a little title on each piece? Like this?
+
+He hands William a little slip of paper.
+
+William de Worde (reading) 'Five/six Hurt in Tavern Brawl'. Yes, OK.
+
+Boddony passes the title sheet to Gunilla.
+
+Gunilla No. 'Items', I said. You've set the T and the 't' the wrong way round. It says 'times'.
+
+William de Worde No, that's better. Just use a big 'T' and a small 'i'. 'Ankh-Morpork Times'.
+
+Boddony How many copies do you want then?
+
+Gaspode,, Ron, the Duck Man, Altogether Andrews and Coffin Henry enter.
+
+William de Worde Er . . . twenty? Thirty?
+
+Gunilla How about a couple of hundred? Hardly worth going to press for less.
+
+William de Worde There can't be two hundred people prepared to pay five dollars!
+
+Gunilla Charge 'em half a dollar, then. That'll be fifty dollars for us and the same for you.
+
+William de Worde Really? But how will we sell them? We haven't got a shop . . . what is that smell?
+
+He sees the crowd of beggars.
+
+What do they want?
+
+Gunilla Well, people usually give Foul Old Ron money just to go away.
+
+Foul Old Ron (nodding) S'right, Mr Push. Don't try the blarney gobble on me, juggins. Dang.
+
+Gaspode Woof. Growl.
+
+Gunilla One thing you notice about Ankh-Morpork is that people will buy almost anything off a man on a street corner . . .
+
+He picks up some of the news sheets and crosses to Ron.
+
+Can you understand me, mister?
+
+Foul Old Ron Bugrit.
+
+Gunilla looks at William.
+
+William de Worde Probably 'Yes'.
+
+Gunilla OK. Well, see here now, if you sell these things at, oh, twenty pence each, you can keep . . .
+
+William de Worde You can't sell it that cheap! At that price, anyone will be able to read it!
+
+Gunilla Good. 'Cos there's more poor folk than rich folk, so if we sell it cheaper we'll sell more copies. (To Ron.) Might your, er, friends be interested in a little money?
+
+Foul Old Ron Told 'em. I told 'em. Buggrit.
+
+William de Worde Er . . . 'Yes' again, I think.
+
+Gunilla Well, then if they sell these to people for twenty pence, they can keep one shiny penny per copy.
+
+Gaspode Yeah - and you can stick your penny where the sun don't shine.
+
+Gunilla and William react as though Ron had spoken.
+
+Gunilla Oh, so you - sorry, what was that?
+
+Foul Old Ron Buggrit.
+
+William de Worde You want more than a penny?
+
+Gaspode Got to be worth five pence a time.
+
+William looks from Ron to Gaspode.
+
+Woof?
+
+William looks back up to Ron.
+
+William de Worde Are you all right, Ron?
+
+Gaspode Gottle o'geer, Gottle o'geer.
+
+Gunilla All right. Two pence.
+
+Gaspode Four. But let's not muck about. How about one dollar per thirty?
+
+Gunilla It's a deal. William, give me a hand, will you?
+
+They cross to the press as Ron and Gaspode turn to the other tramps.
+
+Gaspode Right, then. For every thirty of these paper things you sell, you get a dollar, OK?
+
+Coffin Henry How much is that in old boots?
+
+Gaspode No, you can use the money to buy as many old . . .
+
+Andrews This isn't. . . work, is it?
+
+Gaspode No, no, no. Hardly work, is it? Just standing at a street corner taking money? Doesn't sound like work to me.
+
+Coffin Henry I ain't workin'!
+
+Andrews We do not work. We is gentlemen and ladies of les-u-are, are we not, Duck Man?
+
+Duck Man It's a nasty winter, though, Andrews. Extra money would come in handy. We could live like kings on a dollar a day.
+
+Andrews What? You mean someone would cut our heads off?
+
+Duck Man No, I . . .
+
+Coffin Henry Someone would climb up inside the privy with a red-hot poker and . . .
+
+Duck Man No! I meant . . .
+
+Andrews Someone'd drown us in a butt of wine?
+
+Duck Man No, that's dyin' like kings, Andrews.
+
+Gaspode (muttering Shouldn't think there's a butt of wine big enough that you couldn't drink your way out of. (Aloud) So - what shall we, er, what shall Ron tell them, then? Are we on for it?
+
+They nod and mutter their agreement. Gaspode turns to William and Gunilla.
+
+OK, you have a deal.
+
+Gunilla Could I just ask . . . why has he got a duck on his head?
+
+Gaspode Ssh. We never mention the 'd' word. He thinks he's perfectly normal, see, and compared with the rest of them, er, us - he is!
+
+The tramps are issued with bundles of the news sheets and exit, with Gaspode. A moment's pause, and then Sacharissa storms in. She crosses to William and slaps him hard around the face.
+
+Sacharissa That twenty dollars a month was nearly all we had!
+
+William de Worde Sorry? What?
+
+Sacharissa He may not have been very fast, but my father was one of the best engravers in the business!
+
+William de Worde Ah. Er . . . I see. Um, you're Sacharissa Cripslock, aren't you?
+
+Sacharissa And you took it away, just like that!
+
+William de Worde Your grandfather . . .
+
+Sacharissa Used to cut the woodblocks for your news letters, yes! But now you've dropped us and moved in with these dwarfs!
+
+William de Worde Look, I'm sort of stuck with it now. Lord Vetinari's made me responsible for it all . . .
+
+Sacharissa The Guild of Engravers is going to be livid about this!
+
+William de Worde (taking out his notebook) You wouldn't care to make that official, would you? For the paper? 'We are livid' says spokes . . . woman for the Guild of . . .
+
+Sacharissa Why?
+
+William de Worde We need things to go in our next edition. Perhaps you could help? I could give you, oh, twenty pence an item, and I could use at least five a day.
+
+Sacharissa (about to launch into another tirade) A dollar a day?
+
+William de Worde (wildly) More, if they're nice and long.
+
+Sacharissa For that news letter thing you do?
+
+William de Worde Yes.
+
+Sacharissa A dollar.
+
+William de Worde Yes.
+
+Sacharissa How can you afford that? You told grandfather that you only get thirty dollars yourself.
+
+William de Worde Things have moved on a bit.
+
+Sacharissa Well, I do hear things, I suppose. I suppose it's a suitable job for a lady. Practically cultural.
+
+William de Worde Er, close, I suppose.
+
+Sacharissa I wouldn't like to do anything improper.
+
+William de Worde I'm sure it's proper.
+
+Sacharissa Well - all right then.
+
+William and she shake hands - William gives her a notepad and pencil.
+
+I'll start right away.
+
+She exits. Blackout. In the dark, we hear Foul Old Ron shouting: 'Hoinarylup!' and eSquidaped-oyt!' in the manner of a London news vendor.
+
+Scene Five
+
+The balcony of the Palace. Lord Vetinari is leaning out, looking down at the street. Foul Old Ron repeats his calls. Drumknott enters carrying a newspaper.
+
+Drumknott It's the beggar Foul Old Ron, sir. Selling this . . . paper full of things.
+
+He hands the paper to Lord Vetinari, who reads it.
+
+Lord Vetinari Well, well. 'The Ankh-Morpork Times'. Was anyone else buying this?
+
+Drumknott A number of people, my lord. All sorts of people.
+
+Lord Vetinari I see no mention of Hoinarylup or Squidaped-oyt.
+
+Drumknott No, my lord.
+
+Lord Vetinari How very strange. I'm seeing the Guild of Town criers at nine and the Guild of Engravers at ten past.
+
+Drumknott I didn't know they had appointments, my lord.
+
+Lord Vetinari They will have, when they see this.
+
+Foul Old Ron (off) Sheearna-pip!
+
+Lord Vetinari (with a glance in Ron's direction) Oh and let that nice Mr de Worde know that I'll see him at nine thirty.
+
+Cross-fade to street exterior. As William crosses the stage, Mrs Arcanum and Mrs Mackleduff enter and stop him.
+
+Mrs Arcanum Ah, Mr de Worde. I'd just popped out to do a spot of shopping with Mrs Mackelduff, who runs the lodging house next to ours and we bought one of these.
+
+She holds up the paper.
+
+Is this all true?
+
+William de Worde Well, yes, of course.
+
+Mrs Arcanum (to Mrs Mackleduff) Well - it says here thai fifty-six people were hurt in that brawl last night at the Drum. My hubby told me it was only a few.
+
+William de Worde Oh. That should've read 'five or six'. Sorry.
+
+Mrs Mackleduff It says fifty-six here. In black and white.
+
+Mrs Arcanum It must be right. Otherwise they couldn't
+
+put it in. It's all written by special people, innit?
+
+Mrs Mackleduff (exiting with Mrs Arcanum) They wouldn't allow just anyone to write what they like. Stands to reason.
+
+Mrs Arcanum (as they both exit) Fifty-six hurt, eh? Goodness me. Oh, and supper is at seven thirty prompt, Mr de Worde. Puctuality is the politeness of princes, you know.
+
+William de Worde Yes, Mrs Arcanum.
+
+Lights change from the street to the print room, and William enters.
+
+There is a bag of cash on a corner of the press.
+
+Gunilla Oh, there's a spot of cash for you there.
+
+William de Worde (picking it up) This can't be right.
+
+Gunilla Mr Ron and his friends kept coming back for more copies. I reckon we can sell three times as many tomorrow if we halve the price.
+
+William de Worde Halve the price? But there wasn't even that much in it!
+
+Gunilla People like to be in the know.
+
+He nods towards Sacharissa and clears his throat.
+
+Sacharissa (coming down to William) I've already got two good items for you.
+
+William de Worde Er . . . yes?
+
+Sacharissa My grandfather says this is the longest, coldest winter he can remember.
+
+William de Worde Yes?
+
+Sacharissa Well, he's eighty. That's a long time.
+
+William de Worde Oh.
+
+Sacharissa And the meeting of the Dolly Sisters Baking and Flower Circle Annual Competition had to be cancelled last night because a cake table got knocked over.
+
+She hands him a page from her notebook.
+
+William de Worde Is that really interesting, do you think? (He reads) 'The Dolly Sisters blah di blah was held in the Reading Room in Lobbin Clout Street. Mrs H Rivers was President. She welcomed all members and commented on the sumptuous offerings. Prizes were awarded as follows . . .' (He skims down, turning a page) . . . 'Specimen in Jar'??
+
+Sacharissa Yes, it was a dahlia.
+
+William de Worde Perhaps we'll say 'Specimen Dahlia in Jar' then - less ambiguous. 'A Fine Display of Loose Stool Covers' . . . ? ' . . . everyone's spirits were dampened when a naked man, hotly pursued by members of the Watch, burst through the window and ran around the room, causing much disarray of the Tarts before being apprehended by the trifles. The meeting closed at nine pm. Mrs Rivers thanked all members.'
+
+Sacharissa What do you think?
+
+William de Worde Perhaps you could drop in at the Watch House to ask about the naked man.
+
+Sacharissa I will do no such thing! Respectable women don't have anything to do with the Watch.
+
+William de Worde I meant, ask why he was being chased.
+
+She looks uncomprehendingly at him.
+
+People will want to know. Oh, and who's the oldest person in the city?
+
+Sacharissa One of the wizards, I suppose.
+
+William de Worde Well go along to the University and see if he can remember a colder winter.
+
+Mr Wintler enters. He carries a lidded cardboard box.
+
+Mr Wintler Is this where you put things in the paper?
+
+William de Worde Yes?
+
+Mr Wintler Only I grew this carrot and I reckon it's a very interesting shape.
+
+He takes the lid off the box and William and Sacharissa look at the contents.
+
+Eh? What d'you think, eh? The blokes down the pub said I should put it in your paper!
+
+Sacharissa That's a very strange carrot. What do you think, Mr de Worde?
+
+William de Worde Er . . . you go along to the University, will you? I'll deal with this . . . gentleman.
+
+She exits.
+
+Mr Wintler My wife couldn't stop laughin'.
+
+William de Worde What a lucky man you are, sir. What a pity we can't put pictures in the paper - but I think I'm already in quite enough trouble. Well, thank you for bringing it in. (He ushers the man out.)
+
+Gunilla crosses to him. William hands her/him Sacharissa's notes.
+
+Can you think of a good reason why I should put this in the paper? It's a bit . . . dull.
+
+Gunilla reads.
+
+Gunilla I can see seventy-three reasons. That's 'cos there's seventy-three names. I think people will like to see their names in the paper.
+
+Unseen by William,, Sgt Detritus has entered behind him.
+
+William de Worde What about the naked man?
+
+Gunilla Yeah, pity she didn't get his name.
+
+Detritus Der Patrician will see you now.
+
+William de Worde I don't have an appointment with . . .
+
+Detritus You'd be amazed how many people has appointments wiv der Patrician an' they don't know it. So you'd better hurry.
+
+They exit as the lights black out.
+
+Scene Six
+
+The Palace. Lord Vetinari is on, reading The Times. A moment, then Drumknott enters.
+
+Drumknott Mr William de Worde, my lord.
+
+William enters, out of breath.
+
+Lord Vetinari Thank you, Drumknott.
+
+Drumknott exits. Lord Vetinari holds up the newspaper.
+
+What a very . . . interesting document. But I have to ask why?
+
+William de Worde Er . . . people like to know things, my lord.
+
+Lord Vetinari Which people?
+
+William de Worde Well, everyone, really.
+
+Lord Vetinari And did they tell you this?
+
+William de Worde Well, you know I've been writing my news letters for some time now, sir . . .
+
+Lord Vetinari Sent to various foreign dignitaries. People who need to know. But you are selling this to anyone in the street, is that correct?
+
+William de Worde I suppose so, sir.
+
+Lord Vetinari You wouldn't entertain the idea, would you, that a state is like, say, one of those rowing galleys? You know, banks of oarsmen down below? Helmsman up above? I put it to you that it is not necessarily a good thing for the rowers to know of every collision fended off, every reef avoided . . . it would only serve to worry them - to put them off their stroke. What rowers need to know is how to row, hmmm?
+
+William de Worde (without thinking And that the helmsman is a good one, sir.
+
+Lord Vetinari (with a thin smile) To be sure. This is the age of words, after all. (He looks at the paper.) 'Fifty-six hurt in tavern brawl', eh? Astounding. What further news do you have for us, sir?
+
+William de Worde Well, er . . . it's been very cold, sir.
+
+Lord Vetinari Has it? Has it indeed? My word!
+
+William de Worde Yes, sir, and there was a bit of a fracas at a cookery meeting last night . . .
+
+Lord Vetinari A fracas?
+
+William de Worde Well, more of a rumpus, really. And someone's grown a funny-shaped vegetable.
+
+Lord Vetinari That's the stuff. Could I give you a piece of advice, Mr de Worde?
+
+William de Worde Please do, sir.
+
+Lord Vetinari Be careful. People like to be told what they already know. They get uncomfortable when you tell them new things. They want reassurance. They think they want news, but what they really want is olds.
+
+William de Worde Yes, sir.
+
+Lord Vetinari Indeed. Good day, Mr de Worde. And do take care. Tread carefully. I'm sure you wouldn't want to become news . . . would you?
+
+Lights cross-fade to the street. Mr Pin and Mr Tulip, eating sausages in buns. Mr Tulip sniffs his.
+
+Mr Pin In your mouth, Mr Tulip, not up your nose. Do you know what they call a sausage-in-a-bun in Quirm?
+
+Mr Tulip No.
+
+Mr Pin They call it le sausage-in-a-bun.
+
+Mr Tulip What, in a foreign language? You're ___ing kidding!
+
+Mr Pin I'm not a ___ing kidder, Mr Tulip.
+
+Mr Tulip They ought to call it a . . . sausage dans le derriere.
+
+Mr Pin In a bun, Mr Tulip.
+
+Mr Tulip I know what I meant. This is a ___ing awful sausage.
+
+Mr Pin (looking up) Hello. What's happening up there?
+
+Above them, Arthur Crank has stepped out onto the edge of a balcony. A crowd gathers - quickly!
+
+First Person in Crowd Much better to try the Thieves' Guild, mate! Six floors and then you're on solid cobbles! Crack your skull first go!
+
+Second Person in Crowd (to First Person) There's proper flagstones round the Palace.
+
+Third Person in Crowd Certainly, but the Patrician'11 kill him if he tries to jump from there, am I right?
+
+Fourth Person in Crowd Tower of Art's good. Nearly nine hundred feet. And you get a good view.
+
+First Person in Crowd Granted, but you also get time to think while you're falling. Not a good time for introspection in my view.
+
+William appears up on the balcony and scrambles out with Mr Crank.
+
+Second Person in Crowd He is thinking about it. It's a big step, after all.
+
+Lights now fade out on the crowd. Wind noise.
+
+Arthur Crank Morning. Come to try to talk me out of it, have you?
+
+William de Worde (beginning to regret his bravado) I . . . I . . . I wouldn't dream of it.
+
+Arthur Crank I'm always open to being talked out of it.
+
+William de Worde Yes, er . . . well, would you care to give me your name and address?
+
+Arthur Crank Why?
+
+William de Worde Because, from this height onto solid ground it's often hard to find out that sort of thing afterwards. If this is going in the paper, it's best if we can say who you were.
+
+Arthur Crank What paper? (William hands him a copy) Oh, right. Sort of like a town crier, but written down?
+
+William de Worde That's right. So, what was your name?
+
+Arthur Crank What do you mean, was?
+
+William de Worde Well, you know, obviously . . .
+
+Arthur Crank Arthur Crank, thirty-five.
+
+William de Worde And where did you live, Arthur?
+
+Mrs Crank enters, below, with Cpl Nobbs.
+
+Arthur Crank Prattle Alley.
+
+William de Worde And what was your job?
+
+Arthur Crank There you go with the 'was' again. The Watch usually give me a cup of tea.
+
+William de Worde Hold on . . . you jump a lot, then do you?
+
+Arthur Crank Well, not the actual jumping, obviously. That's not a skilled job. I'm more into the 'cry for help' aspect.
+
+William de Worde And the help you want is?
+
+Arthur Crank Could you make it twenty dollars?
+
+William de Worde Or you jump?
+
+Arthur Crank Well, not exactly jump obviously. But I shall continue to threaten.
+
+Mrs Crank Arthur Crank, you come down here this instant!
+
+Arthur Crank Oh gawds, they've gone and fetched the wife. Well, gotta go.
+
+William de Worde What?
+
+Arthur Crank Three happy married years. The other thirty-two haven't been too bad, either. But she can't cook cabbage worth a damn. See ya next time.
+
+Blackout on balcony. Arthur and William exit. Crowd disperses, leaving Tulip and Pin.
+
+Mr Tulip ing funny city, this. So what do we do now?
+
+Mr Pin Well, I've got us a little insurance.
+
+He pulls out the Disorganiser.
+
+I don't like no lawyer having all that muck on us.
+
+Mr Tulip Is it magic?
+
+Mr Pin Not as such.
+
+He opens the Disorganiser. A light comes on. (In previous productions, the Disorganiser appeared in a tight spotlight, separate from the action)
+
+Disorganiser (in a spot) Bingly, bingly, beep! You have wisely purchased the Dis-Organiser Mk II. This device is provided without warranty of any kind as to the reliability, accuracy, existence or otherwise or fitness for any particular purpose and Bioalchemical Products specifically does not warrant, guarantee, imply or make any—
+
+Mr Tulip thrusts a dagger at the Disorganiser box. It stops speaking.
+
+Mr Tulip What the ___ing heck is this?
+
+Mr Pin It's a listening device.
+
+Mr Tulip Seems to be doin' a lot of ___ing talkin', to me.
+
+Mr Pin It does both. It's that little demon there. It can repeat everything it hears, word for word.
+
+Mr Tulip And it doesn't make stuff up?
+
+Mr Pin Oh no. And people will know what it's saying is really what it heard said to it. I reckon this will be very useful. No lawyer puts one over on me, Mr Tulip.
+
+Mr Tulip No, Mr Pin.
+
+As they start to exit, the scene changes to the print room. Sacharissa and a couple ofdwafs are on, working. There is now a spike on the press. William enters.
+
+William de Worde (seeing the spike) What's that?
+
+Sacharissa It's a spike. It's a sort of filing system. Wre can put things on it for Gunilla and Boddony to set up when there's spare time, that sort of thing. Grandfather uses one.
+
+William de Worde Fair enough. If it's good enough for your . . . (A new thought occurs to him) yes . . . Sacharissa — your grandfather's an engraver, isn't he?
+
+Sacharissa You know perfectly well . . .
+
+William de Worde If we gave him iconograph pictures, could he engrave them on to metal plates so we could have pictures in the paper?
+
+Sacharissa I don't see why not.
+
+William de Worde Do you know any good iconographers?
+
+Sacharissa I'll ask around. We had lots of excitement at the office. We've taken on Mr Bendy the zombie to write obituaries - this is his first.
+
+She pulls out some yellow crinkly sheets of paper.
+
+It's his own.
+
+William de Worde Oh good.
+
+Sacharissa And a man complained about your piece about that brawl in the Mended Drum. You said he hit someone with a table and he said that was a cissy weapon. We offered him an apology and he's gone away happy.
+
+William de Worde Oh good.
+
+Sacharissa And a man gave us sixpence to put in an advert for his lost watch.
+
+William de Worde Oh good.
+
+Sacharissa And I thought of this.
+
+She produces a sample page of the newspaper.
+
+To go under 'Ankh-Morpork Times'.
+
+William de Worde (reading 'The Truth Shall Make Ye Free'. Yes. Impressive. Is it a quote?
+
+Sacharissa Er . . . yes . . . ?
+
+Scene Seven
+
+A cellar. Tulip, Pin and Charlie are onstage. Charlie is dressed as Lord Vetinari.
+
+Mr Pin Now look, it seems to me that we have here a failure to communicate. I mean, it's not like we're asking you memorise a book or anything. You just got to look at Mr Tulip here. Is that hard? Lots of people do it without any kind of special training.
+
+Charlie I just, sort of . . . lose my bottle.
+
+Mr Pin Mr Tulip is not a scary man. I mean, does he look scary? (He does) Remember, you are Lord Vetinari. Understand? You're not going to take anything from some guard. If he talks back to you, just look at him.
+
+Mr Tulip Like this.
+
+He leers evilly.
+
+Mr Pin Not quite like that, perhaps. Just look haughty and raise an eyebrow. That's what he does.
+
+Charlie Don't want to do this any more!
+
+Mr Pin Ten thousand dollars, Charlie. That's a lot of money.
+
+Charlie I've heard of this Vetinari. If this goes wrong he'll have me thrown in the scorpion pit!
+
+Mr Pin Well the scorpion pit's not as bad as it's cracked up to be, y'know?
+
+Mr Tulip It's a ___ing picnic compared to me.
+
+Charlie Ten thousand dollars isn't enough. After all, you need me . . .
+
+Mr Pin (mildly) We had a deal, Charlie.
+
+Charlie Yeah, well I reckon there's more money in this now.
+
+Mr Pin (looking at Mr Tulip) Well, maybe we could go to fifteen thousand - but that's coming out of our share, you realise?
+
+Charlie Yeah, well.
+
+Mr Pin But we want to see extra effort, right? Starting right now. All you have to do is to say . . . what do you have to say?
+
+Charlie You are relieved of your post, my man. Go away.
+
+Mr Pin Except we don't say it like that, do we? It's an order. You are his boss. Look - how can I put it? You're a shopkeeper. Imagine he's asked for credit.
+
+Charlie straightens up and raises an eyebrow. He speaks, for the time, like Lord Vetinari.
+
+Charlie You are relieved of your post. Go away.
+
+Mr Tulip By George, I think he's ___ing got it!
+
+Pin and Tulip shake hands as the lights black out.
+
+Scene Eight
+
+Mrs Arcanum !y boarding house. Mrs Arcanum,, Mrs Mackleduff and Mr Cartwright are onstage, reading the latest issue of The Times. William enters.
+
+Mrs Mackleduff Ooh, Mr de Worde, it says here in your news paper that a man in Martlebury Street has grown a vegetable that's a funny shape.
+
+Mrs Arcanum I should very much like to see that.
+
+Mr Cartwright Good soil over that way.
+
+Mrs Mackleduff Someone held a shopkeeper up at knifepoint.
+
+Mr Cartwright I don't think this is the coldest winter for more than a hundred years, though. I'm sure that one we had ten years ago was worse.
+
+Mrs Mackleduff It's in the paper, though.
+
+Mrs Arcanum Strange obituary, though. I'm sure it's not usual to write about things people've done since they've died.
+
+Mr Cartwright At least zombies are human, though.
+
+Mrs Arcanum I suppose we have to move with the times. (Shortpause.) I hope that other poor man finds his watch.
+
+Cross-fade to print room. William, Sacharissa and Gunilla onstage. The Lost Watch Man enters, excitedly, crosses to William and shakes his hand enthusiastically.
+
+Lost Watch Man Amazing, sir, amazing! How did yon do it? You put that notice in your paper and when I got home, blow me down if the watch wasn't in my other jacket! Gods bless your paper, say I!
+
+He exits.
+
+Gunilla We've sold eight hundred copies so far today. At five pence each, that makes your share sixteen dollars.
+
+William de Worde This is insane. All we did was to write things down.
+
+Gunilla Are you going to want to do another one for tomorrow?
+
+William de Worde Gods, I hope not.
+
+Gunilla Well, I've got a story for you. The Guild of Engravers are already setting up their own press. They could put us out of business. So if you could keep your paper going . . .
+
+William de Worde But I don't want all this money money causes problems!
+
+Gunilla We could sell The Times cheaper . . . ?
+
+William de Worde We'd only make more money!
+
+Sacharissa We could . . . we could pay the street vendors more.
+
+William de Worde I'm not even sure if there is enough news to fill a . . . it isn't supposed to work like this, surely . . . But if it's in the paper, it is news. If it's news it goes in the paper, if it's in the paper it's news. And it was the truth.
+
+Unseen by the others, Otto enters and sets up his tripod.
+
+Sacharissa We could employ more people to collect the news. How about news from other places? We could use the semaphore towers to get the news quicker!
+
+William de Worde Are you mad? That's really expensive!
+
+Sacharissa Well, you were complaining we had too much money.
+
+Shrouded in the old-fashioned photographer's black cloth, Otto discharges the flash.
+
+Otto Nice vun. You vanted an iconographer? My name is Otto Chriek.
+
+Sacharissa Are you any good? We could start you at a dollar a day . . .
+
+William de Worde Sacharissa! He's a vampire!
+
+Otto I object most stronkly. It iss such an easy assumption to believe that everyvun with an Uberwald accent is a vampire, is it not? There are many thousands of people from uberwald who are not vampires!
+
+William de Worde Sorry.
+
+Otto I am a vampire, as it happens. But if I had said 'Hello my cheeky cock sparrow mate old boy by crikey' vhat vould have happened zen, eh?
+
+William de Worde We'd have been completely taken in.
+
+Otto Anyvay, your notice did say 'vanted'. Alzo, I have zis.
+
+He indicates his temperance badge.
+
+Sacharissa Oh - you're a member of the uberwald League of Temperance?
+
+William de Worde (reading the badge) 'Living not in Vein'? You've signed the pledge?
+
+Otto At ze meeting rooms in Abattoirs Lane, vhere I attend every veek for our big sing-song and tea and a bun and wholesome conversation on themes of positive reinforcement and keeping offze subject of bodily fluids. I am no longer a stupid sucker.
+
+Sacharissa (to William) A vampire signs up and forswears human blood . . .
+
+Otto Ve prefer zer 'b'vord.
+
+Sacharissa The 'b'word. (To William.) Um. There is one tiny problem, though, William. Grandfather says no-one in the Guild would engrave the pictures for us . . .
+
+Otto Zere is alvays a vay. All you are printing is black and vhite, yes? Ze paper is vhite so all you are printing is ze black. Veil, you know how engravers engrave metal viz acid?
+
+William de Worde Yes?
+
+Otto All ve haf to do is to get ze imps in ze camera to paint viz acid instead of paint.
+
+William de Worde You can do it?
+
+Otto Oh yes.
+
+William de Worde Well, OK then. You're hired!
+
+Otto You vill not be sorry.
+
+Mr Wintler enters, with another box.
+
+Mr Wintler Here, what do you think of this?
+
+He starts to unlid the box.
+
+William de Worde Mr Wintler, I really don't think . . . .
+
+Mr Wintler (to William) I dug up this parsnip . . . my wife couldn't keep a straight face. (To Sacharissa.) This young lady looks like she enjoys a good laugh. (He opens the box. Sacharissa looks in.)
+
+Sacharissa Golly! It's amazingly lifelike!
+
+William looks in the box.
+
+William de Worde Oh — it's a nose. A parsnip with a sort of knobbly face and a big nose!
+
+Otto This is news? I should take a picture?
+
+William de Worde Yes.
+
+Mr Wintler poses with the box. Otto sets off the flash. He (Otto) screams in reaction to the light and staggers around the room. They all stare.
+
+Otto (recovering Vhat? Vhat? It's a perfectly normal reaction, for a vampire. Strong light hurts us. I'm vorking on it. I'm vorking on a new machine to take pictures viz dark light.
+
+William de Worde Dark light?
+
+Otto Viz true darkness, as a matter of fact. Not just absence of light — the light on ze ozzer side of darkness. Ve can't see it, but the imps that paint ze pictures can. It's emitted by eels zat live deep underground in caves in uberwald. Let me show you . . .
+
+He pulls ajar of eels out of his satchel and holds them up. He looks at them.
+
+Boo!
+
+Dark light effect. Lights black out totally for a second, then come up again. During the effect Lord de Worde walks up behind William and then exits again.
+
+William de Worde That was very weird. It was like something very cold walking through me.
+
+Otto Very strange. I could have sworn I saw somezing . . .
+
+Boddony bursts on.
+
+Boddony Quick! Quick! The Palace!
+
+He hands William a note.
+
+William de Worde Otto! Get your gear together Vetinari's killed someone . . . allegedly. And it can't possibly be true!
+
+They exit as the lights black out.
+
+Scene Nine
+
+The Patrician's Palace. Detritus and Cpl Littlebottom are onstage. She is holding a knife which she drops into a cloth bag held by Detritus. He exits. William and Otto enter a different way and Vimes enters from yet another direction.
+
+Vimes What is it you're wanting?
+
+William de Worde I want to know what's happened here, please.
+
+Vimes Why?
+
+William de Worde Because people will want to know.
+
+Vimes You're Lord de Worde's boy, aren't you? You run that news sheet thing?
+
+William de Worde Yes, your grace.
+
+Vimes This has not been a nice day - and it's going to get a lot worse. Why would I want to talk to you?
+
+William de Worde So that I can write it down accurately. And you know who I am so if I get it wrong you know where to find me.
+
+Vimes So - if/do what you want, you'll do what you want, is that it?
+
+William de Worde I'm saying, sir, that a rumour can run round the world before the truth has got its boots on, sir.
+
+Vimes Did you make that up?
+
+William de Worde No, sir, it's something my father told me. But you know it's true.
+
+Vimes (after a moment's thought) All right, then. Lord Vetinari was seen by three cleaning maids after they were alerted by the barking of his lordship's dog at around seven this morning. He said: (Vimes consults his notebook) 'I've killed him. I've killed him. I'm sorry.' They saw what looked very much like a body on the floor. Lord Vetinari was holding a knife. They ran downstairs to fetch someone. On their return, they found his lordship missing. The body was that of one Rufus Drumknott, the Patrician's personal secretary. He had been stabbed and is seriously ill. A search of the buildings found Lord Vetinari in the stables. He was unconscious on the floor. A horse was saddled. The saddlebags contained . . . seventy thousand dollars . . . Cheery, this is damn stupid!
+
+Cheery Littlebottom I know, sir. But they are the facts.
+
+Vimes But they're stupid facts.
+
+Cheery Littlebottom I know, sir - I can't imagine his lordship trying to kill anyone.
+
+Vimes Are you mad? I can't imagine him saying 'sorry'!!
+
+William de Worde Why was his lordship unconscious, sir?
+
+Vimes (with a shrug It looks as though he was trying to get on the horse. He has a gammy leg. Maybe he slipped . . . I can't believe I'm saying all this . . .
+
+William de Worde Could I get an iconograph picture, sir? To reassure our readers that you're on this case personally. Otto?
+
+Vimes What - a damn vampire?
+
+William de Worde He is a black ribboner, sir.
+
+Otto (who has set up his camera) Good mornink. Do not movink, please. Looking this vay . . .
+
+The flash goes off. Otto writhes in agony.
+
+Oh, shee-yut!
+
+William de Worde (to Vimes) He's getting used to the flash, sir.
+
+Vimes So I see. Right, I think you've seen and heard about as much as you need. (To Cheery.) Come on, Cheery.
+
+They exit.
+
+William de Worde (to Otto) You OK? (Otto nods.) Right, now we'd better see if we can get into the scene of the crime.
+
+Nobby enters from the crime scene.
+
+Ah, just the man I was looking for!
+
+Corporal Nobbs Am I?
+
+William de Worde Yes, I've been talking to Commander Vimes and now I would like to see the room where the crime was committed.
+
+Corporal Nobbs 'Ere, are you from that news paper?
+
+William de Worde That's right, and I thought people would like to see how our brave Watch swings into action at a time like this.
+
+Corporal Nobbs Corporal Nobby Nobbs, sir. Prob'ly thirty-four. Bin in uniform since prob'ly ten years old, man and boy.
+
+William de Worde Man and boy and . . . ?
+
+Corporal Nobbs Just man and boy, sir. Just man and boy.
+
+William de Worde And were you first on the scene, Corporal?
+
+Corporal Nobbs Last on the scene, sir.
+
+William de Worde Can I have a look?
+
+William pokes his head around the edoor'.
+
+Ah yes . . . chalk outline on floor. Coloured chalk, I see . . .
+
+Corporal Nobbs I done the flowers and clouds.
+
+William de Worde Strong smell of peppermint. Hmm. Chair and basket knocked over. Short metal arrow stuck in the floor . . .
+
+Cheery bursts back on.
+
+Cheery Littlebottom Hey, hey! What're you doing? Come out of there!
+
+William de Worde Otto?
+
+Otto (speaking to his jar of eels) Boo!
+
+Dark light effect.
+
+Cheery Littlebottom What the . . . ? That was dark light, wasn't it?
+
+Otto Ah - you, too, are from uberwald?
+
+Cheery Littlebottom Yes - and I did not expect to see that in Ankh-Morpork. Now get out!
+
+Lights out. Sacharissa, Gunilla, Boddony and Mr Wintler enter into the press room. As the lights come up again, William and Otto cross to the press.
+
+William de Worde Is there something you should tell me about dark light, Otto. The corporal seemed very angry when you used it just now?
+
+Otto Veil, it's a little hard to explain . . .
+
+William de Worde Is it harmful?
+
+Otto Oh no, zere are no physical effects whatsoever . . .
+
+William de Worde What then? Mental effects, you mean?
+
+Otto Perhaps ziz is not ze time.
+
+Mr Wintler What do you think of this funny marrow, Mr de Worde?
+
+William de Worde I suggest you stuff it, Mr Wintler.
+
+Mr Wintler Just what my wife said.
+
+He exits.
+
+Sacharissa What's going on? Who's been killed?
+
+William de Worde Er . . . no-one, I think.
+
+Sacharissa Well, that's a mercy. We've had five other people in with amusing vegetables.
+
+William de Worde Oh.
+
+Sacharissa They weren't all that funny, to tell the truth.
+
+William de Worde Oh.
+
+Sacharissa No. They mainly looked like . . . you know.
+
+William de Worde Oh. What?
+
+Sacharissa You know. A man's . . . um, you know.
+
+William de Worde Oh.
+
+Sacharissa Not even very much like . . . um, you know. I mean, you had to want to see a . . . you know, there, if you know what I mean.
+
+William de Worde Oh.
+
+Sacharissa But I took their names and addresses, just in case. It's been very busy while you've been away. Lost dogs, things people want to sell . . .
+
+William de Worde (a bit distracted) That's advertising. If they want it in the paper, they have to pay.
+
+Sacharissa We've been 'asked' to attend a ball at Lady Selachi's. I haven't anything suitable to wear, though . . .
+
+William de Worde (responding on autopilot) Not a problem - you're about my sister's size - she's got lots of dresses stored away in our town house. I'll get you the key . . .(Coming to) But not right now. Look, something is happening!. And I have to write it down as soon as possible. Mr Goodmountain?
+
+Gunilla Yes?
+
+William de Worde Can you put stuff in type while I dictate?
+
+Gunilla Yes.
+
+William de Worde (dictating All right - at the top: 'AMAZING SCENES IN ANKH-MORPORK'... got it? Then, smaller: 'PATRICIAN ATTACKS CLERK WITH KNIFE'. Smaller again: 'MYSTERIOUS EVENTS IN STABLES'. Then, smaller again: 'WATCH BAFFLED'. OK, now we can start the story . . .
+
+Gunilla Start it? Aren't we nearly finished?
+
+William de Worde 'Suspicious circumstances surround the attack' . . . make that alleged attack. (To Sacharissa.) If Lord Vetinari wanted to kill someone they'd be dead . . . check Twerp's Peerage, would you? I'm sure he was educated in the Assassins' Guild. (Back to Gunilla.) Er . . . alleged, no, apparent, attack by Lord Vetinari on Rufus Drumknott, his clerk, in the Palace today. Palace staff heard . . . heard his lordship . . .'
+
+Sacharissa (referring to Twerp's Peerage) '. . . who graduated from the Guild of Assassins in 1968 . . .'
+
+William de Worde (to Gunilla) Put that in. And then go on, 'heard him say, "I killed him, I killed him. I'm sorry".' Vimes is right, he'd have to be mad to talk like this . . .
+
+Mr Slant enters with Mr Carney.
+
+Mr Slant Mr de Worde? I am Mr Slant of the Guild of Lawyers. This is Mr Carney of the Guild of Engravers and Printers . . .
+
+Gunilla Engravers and Printers?
+
+Carney Yes. We expanded our charter. Guild membership two hundred dollars a year . . .
+
+Mr Slant However, in this instance, there will also be a one-off payment of, say, two thousand dollars.
+
+William de Worde We can't afford that.
+
+Mr Slant In that case, accepted law and practice allows me to . . .
+
+Sacharissa I want to see your charter!
+
+Slant hands it over.
+
+Oh. It seems to be in order . . . (Pointedly.) Except for the Patrician's signature.
+
+Mr Slant That is a mere formality, my dear.
+
+Sacharissa I'm not your dear and it's not on there, formal or not. So this isn't legal, is it?
+
+Mr Slant Clearly we cannot get a signature off a man in prison on a murder charge, can we?
+
+William de Worde When people say clearly, that means there's a huge gap in their argument and that things are not clear at all. So - who is running the city?
+
+Mr Slant Er . . . I don't know. That isn't my concern . . .
+
+William de Worde Mr Goodmountain? Bold type, please: 'Who is governing the city while Vetinari is imprisoned? Asked today, a leading legal figure said he didn't know and that it was none of his concern . . .'
+
+Mr Slant You can't put that in your news paper!
+
+William de Worde '. . . said Mr Slant of the Guild of Lawyers . . .'
+
+Carney You'll find it hard to print that with no damn press!
+
+William de Worde '. . . was the view of Mr Carney of the Guild of Engravers and Printers, who earlier today tried to put The Times out of business with an illegal document. Asked for his opinion on this flagrant breach of the city's laws, Mr Slant said . . .'
+
+Mr Slant (shouting Stop taking down everything we say!
+
+William de Worde Otto?
+
+Otto holds up theflash gun.
+
+Otto Chentlemen? (He takes their photo) Ooh, ohh, aargh, argh!
+
+Mr Slant What are you going to do with that picture?
+
+William de Worde I don't have to tell you. This is our workshop. We didn't ask you to come here.
+
+Mr Slant But I was here on legal business.
+
+William de Worde Then it can't be wrong to take your picture, can it? Anything to say?
+
+He holds his pad and pencil ready.
+
+Carney Well, I think . . .
+
+Mr Slant (interrupting My considered opinion. Is that we go. Right now. In silence.
+
+Carney But . . . ?
+
+Mr Slant In silence, I suggest.
+
+They exit.
+
+Gunilla Should I set this for real?
+
+Sacharissa We could get in terrible trouble!
+
+William de Worde Yes, but how much trouble are we in already? On a scale of one to ten?
+
+Sacharissa About eight. But when the next edition hits the streets . . . about two thousand three hundred and seventeen!
+
+William de Worde Then we'll put it in. (To Gunilla.) But this is my choice. I'll set it - you guys can go home.
+
+Gunilla You can't operate the press alone. And we want to protect our investment.
+
+Sacharissa And / need that dollar.
+
+William de Worde Two dollars. It's time for a rise. Otto?
+
+Otto Vhat sort of danger are ve talking about? Garlic?
+
+William de Worde No.
+
+Otto Zat's OK zen.
+
+William de Worde Sacharissa? Please go and find Ron and friends. I want to get another issue out now. Not tomorrow. Now. Please?
+
+Sacharissa Right.
+
+William de Worde Let's go to press!
+
+Blackout. Pause. They set to work in the dark.
+
+Scene Ten
+
+Later that day. The paper has hit the streets. All are in the press room as we saw them before. Vimes, Angua and Detritus enter.
+
+Vimes is carrying the new issue of 'The Times.
+
+Vimes 'Baffled', am I?
+
+William de Worde Well, if you are telling me that you are not, Commander, I would be glad to print . . .
+
+Vimes You're not going to do to me what you did to Slant! Are you going to print everything you hear? You stand there clutching your integrity like some wretched teddy bear and you haven't the faintest idea, have you, how hard you can make my job?
+
+William de Worde It's not against the law to . . .
+
+Vimes Isn't it? Looks like Behaviour Likely to Cause a Breach of the Peace to me.
+
+William de Worde I haven't printed that you have a werewolf in the Watch.
+
+Angua (quietly) Where did you hear that?
+
+Vimes This is Sergeant Angua. You can speak freely in front of her.
+
+William de Worde I've heard . . . rumours.
+
+Angua And?
+
+William de Worde Look, I can see this is worrying you. I can assure you, though, that Corporal Nobbs' secret is safe with me.
+
+Vimes (carefully) Yes, we don't often talk about Corporal Nobbs' species. I would deem it a small favour if you could adopt the same approach.
+
+William de Worde Yes, sir. So could I ask why you're having me watched?
+
+Angua We're not watching you. We're watching to see what happens to you.
+
+Vimes (holding up the newspaper) Because of this.
+
+William de Worde But I'm not doing anything wrong.
+
+Vimes You may not be doing anything illegal. Though it comes damn close. Other people may not have my kind and understanding disposition, though. All I ask is that you try not to bleed all over my streets.
+
+William de Worde I'll try.
+
+Vimes And don't write that down.
+
+William de Worde Fine.
+
+Vimes And don't write down that J said not to write that down.
+
+William de Worde OK. Can I write that you said I shouldn't write down that I shouldn't . . . only joking.
+
+Vimes Ha ha. And no tapping my officers for information.
+
+Angua And no giving dog biscuits to Corporal Nobbs.
+
+William de Worde OK. But what's in it for me?
+
+Vimes I'm Commander of the Watch and I'm asking you politely. I could ask you zmpolitely. Look, a crime has been committed. I've got Vetinari and Drumknott in the cells . . .
+
+William de Worde But wasn't Drumknott the victim?
+
+Vimes One of my men is tending him.
+
+William de Worde Have you found Lord Vetinari's dog?
+
+Vimes {giving nothing away) Dog?
+
+William de Worde Wuffles, I think he was called. And why was there a crossbow bolt sticking into the floor? Sounds like there was someone else in the room. And it had stuck in quite a long way. Not a rebound. It'd been fired at something floor level. A small dog, perhaps?
+
+No reaction from Vimes.
+
+And then there's the smell of peppermint. Why peppermint? Perhaps to cover a scent - maybe they'd heard about your werewolf, too?
+
+Vimes (after a pause) I don't trust you Mr de Worde. Not because you're trouble - I'm paid to deal with trouble. Because you're not answerable to anyone. I have to answer for what I do, but it seems to me you can do what the hell you like.
+
+William de Worde I suppose I'm answerable to the truth, sir.
+
+Vimes Oh, right. So, if you tell lies, does the truth come and smack you in the face? (Pause.) Supposing, just supposing, you came into possession of a line drawing of a dog. Could you print it in your paper?
+
+William de Worde I'm sure we could.
+
+Vimes We would be interested in knowing why he barked just before . . . the event.
+
+William de Worde And if you could find him, Corporal Nobbs could talk to him in dog language, yes?
+
+Vimes (no reaction) I could get a drawing to you in an hour.
+
+William de Worde Thank you. I'd like to see Lord Vetinari.
+
+Vimes No. One, he's still unconscious. Two, he's my prisoner.
+
+William de Worde Drumknott, then?
+
+Vimes Very well. Can't have people saying he's dead. Sergeant Angua will escort you to the Watch House. Good day.
+
+Vimes and Detritus exit. William and Angua walk out of the print room scene and around to the cell.
+
+Angua Come on.
+
+William de Worde How did I do?
+
+Angua I've seen worse.
+
+William de Worde Sorry to mention Corporal Nobbs, but . . .
+
+Angua Don't worry about it. Your powers of observation will be the talk of the station. Look, Mr Vimes is being kind to you because he hasn't sussed you out yet, OK? Just be careful, that's all. (Pause) I hear you have a vampire working foryou.
+
+William de Worde Otto? Yes, we're not prejudiced about that sort of thing. And he is a black ribboner.
+
+They arrive at the cell. Lights up on the cell. Drumknott is inside.
+
+Angua (to William) Here we are. (To Drumknott.) Mr de Worde here would like a word with you. I'll be outside.
+
+She moves outside the cell and waits.
+
+Drumknott You're Lord de Worde's son, aren't you? You write that news sheet.
+
+William de Worde Yes. I seem destined always to be recognised as 'Lord de Worde's son'. Anyway, um, they say Lord Vetinari stabbed you.
+
+Drumknott So they say. I knocked on the door to take him his copy of the paper as he'd requested. His lordship opened it, I walked into the room. Next thing I know I was waking up here in the Watch House. I have every confidence that there has been a mistake.
+
+William de Worde Has his lordship been preoccupied lately?
+
+Drumknott His lordship is always preoccupied. It's his job.
+
+William de Worde Do you know that three people heard him say that he'd killed you?
+
+Drumknott I cannot explain that. They must have been mistaken.
+
+William de Worde Why do you think . . . ?
+
+Drumknott I don't think I have to talk to you, do I?
+
+William de Worde No, but . . .
+
+Drumknott Sergeant!
+
+Angua Yes?
+
+Drumknott I have finished talking to this gentleman.
+
+William de Worde (wearily, putting away his notepad) Thank you. You've been very helpful.
+
+He walks out of the prison scene with Angua. To her.
+
+He doesn't want to believe his lordship attacked him.
+
+Angua Really.
+
+William de Worde Looks like he had quite a bang on the head.
+
+Angua Does it?
+
+William de Worde Look, even I can see this smells funny.
+
+Angua Can you?
+
+William de Worde I see. You went to the Mister Vimes School of Communication, yes?
+
+Angua Did I?
+
+William de Worde Loyalty is a wonderful thing . . .
+
+Angua Is it? This is the way out, Mr de Worde.
+
+William exits as Vimes enters US.
+
+I wouldn't underestimate him, sir. He notices things. He was dead right about the peppermint bomb. And how many officers would have noticed how deeply the arrow had gone into the floor?
+
+Vimes True. What are the odds?
+
+Angua On Mr de Worde? You're right, sir, someone is running a book on his chances. Apparently, six will get you ten that he'll be dead by next Monday, sir.
+
+Vimes You might just spread the word around that I don't like that sort of thing, will you? Oh, and find out who's running this book and when you've found out it's Nobby, take it off him.
+
+Angua Yes, sir.
+
+Blackout. In the blackout, we hear the news vendor's cry - 'Eyinng-GUT!' When the lights come up the news vendor is onstage, carrying a bundle of Inquirers. William enters, on his way to the print room. He stops and takes paper from the vendor.
+
+William de Worde (reading the paper) 'Ankh-Morpork Inquirer'? 'LANCRE WOMAN GIVES BIRTH TO COBRA'? - what's all this?
+
+Vendor All this what?
+
+William de Worde All this to!
+
+Vendor Don't ask me, guv. I just gets a penny for every one I sells. That's all /know.
+
+William de Worde 'Rain of Soup in Genua'? 'Hen Lays Egg Three Times in Hurricane'? Where'd this come from?
+
+Vendor Look, guv, if I was a reading man I wouldn't be floggin' papers, right?
+
+William de Worde Someone else has started a paper!
+
+He sees the small print at the bottom of the page.
+
+In Gleam Street! Right opposite our offices! (He reads) But this is rubbish! Tuppence? If they're paying you a penny, how can they hope to make a profi . . . Oh, of course, they're not doing it to make a profit, they're doing it to put The Times out of business!
+
+He gives the vendor twopence and storms off into the print room. Lights change. Vendor exits. In the print room are Gunilla, Boddony, Sacharissa. William waves the paper at them.
+
+Gunilla We know. They've got three presses - got that out in half an hour.
+
+William de Worde But it's only one sheet - and it's made-up stuff.
+
+Sacharissa Shall I give you the headlines?
+
+William de Worde You'd better.
+
+Sacharissa 'Engravers Offer Dwarfs One Thousand Dollars for Press'.
+
+William de Worde Oh no.
+
+Sacharissa 'Vampire Iconographer and Hard-Working Lady Writer Tempted by Five Hundred Dollar Salaries'.
+
+William de Worde Oh, really . . .
+
+Sacharissa 'Dwarfs Buggered for Paper'.
+
+William de Worde What?
+
+Sacharissa That's a direct quote from Mr Goodmountain. We only have enough for one more edition.
+
+Gunilla And if we want any more, it's five times the old price. The Engravers are buying it up. Supply and demand, Mr King says.
+
+William de Worde Harry King?
+
+Gunilla Yeah, Harry King. King of the Golden River . . .
+
+Gunilla We could just about pay the new prices but this new paper's undercutting us, too - we can't cover costs at that price!
+
+William de Worde Sacharissa?
+
+Sacharissa I'm staying. I didn't trust them. They're too sneaky. But what will we do?
+
+Gunilla We could cut back a bit.
+
+Sacharissa But then people wouldn't buy the paper. And they ought to buy ours, because it has real news in it!
+
+William de Worde Apart from the truth, what have we got that The Inquirer hasn't got? Can we print faster?
+
+Gunilla They have three presses to our one! But we can set type faster! So we can probably beat them to getting the first paper onto the street!
+
+William de Worde OK, that might help. We'll need more writers . . .
+
+Sacharissa There's lots of people looking for work. I'll get some.
+
+William de Worde Tomorrow we'll go to four pages. I have more stuff about Vetinari. That gives us twelve hours to get more paper.
+
+Gunilla But Harry won't let us have any at a reasonable price . . .
+
+William de Worde There's a story right there, then! Oh, and send a clacks to Verence, King of Lancre. I met him once. Let's see if we can disprove some of The Inquirer's stories. Otto!
+
+Otto appears from the cellar.
+
+Otto Vot can I do for you?
+
+William de Worde Any ideas how we can sell more papers?
+
+Otto Veil, I have been working on some ideas for colour pictures for ze paper . . .
+
+William de Worde Excellent! That could help to give us an edge. But now - we'd better arrange to see Harry King . . . the King of the Golden Riverl
+
+Sacharissa (speaking as they exit) Why is he called that? There's no river of gold around here, is there?
+
+Blackout. They all exit. Gaspode sidles on into a spot.
+
+Gaspode Woof. Sorry to muck you about, but I ought to explain about 'Arry King. King of the Golden River. His title, you see, recognises his wealth and achievements and, er, and the source of his success, which was not quite the classical Golden River, if you gets my drift. Let's put it this way, his old nickname was Piss Harry. See, Ankh-Morpork don't really have a sewerage system. Not as such. Harry started out supplying large buckets to hotels, pubs and guesthouses and then taking them away when they was full. He sold the contents on to, well, people who needed large quantities of ammonia, saltpetre and so on. A lot of it went to the tanning industry. Anyway, it all snowballed from there and Harry expanded into the old rags and waste paper business and now, amongst other things, he also controls the city's paper mills. There ya go. Back to the plot.
+
+Gaspode exits.
+
+Scene Eleven
+
+An empty house. A moment, then Mr Pin and Mr Tulip enter. Mr Tulip has a paper bag. Mr Pin holds out his hand and Mr Tulip hands him the bag, sheepishly. Pin pulls out a mint imperial. Tulip looks surprised, takes back the bag and looks into it. Pin slaps him round the back of the head. Slant enters.
+
+Slant Gentlemen. Where have you been? I told you to maintain a low profile.
+
+Mr Pin Mr Tulip isn't good at low profiles. He got hungry. What did you want?
+
+Slant What did you do with the dog?
+
+Mr Tulip No-one said anything about the dog. It bit our ___ing legs and ran off.
+
+Slant (with a sigh) I did tell you that the Watch has a werewolf on its staff? A werewolf would have no difficulty talking to a dog.
+
+Mr Pin What? You're telling us that people will listen to a dog?
+
+Slant Unfortunately, yes. If Vimes finds the dog, things will start to unravel.
+
+Mr Pin Slip him a few dollars. That always works with Watchmen.
+
+Slant The last person who tried that with Vimes has yet to regain full use of their fingers.
+
+Mr Tulip (shouting We did everything you ___ing told us!
+
+Slant We understood we were employing professionals. Is your other assistant still safe?
+
+Mr Pin (indicating the trapdoor) He's down in the cellar. Drunk as a skunk. I don't see why we don't just scrag him now. He nearly turned and ran when he saw Vetinari. Who'd notice one more corpse in a city like this?
+
+Slant The Watch would. We don't want anything that would give them a clue, do we?
+
+Mr Tulip How could they talk to a ___ing dead man?
+
+Slant Why not? You are. Anyway, it is always possible that we may have further use for him. He is too valuable to retire just now.
+
+Mr Pin Yeah, OK. But we want extra for the dog.
+
+Slant It's just a dog. Even Mr Tulip could outthink a dog, I would hope. I can add another five thousand dollars to your fee. And don't insult me by asking for ten. The task is not hard.
+
+Mr Pin I want to know who's giving us these orders.
+
+Slant Me.
+
+Mr Pin I mean your clients. This is going to get political. I need to know how far away we're going to have to run when people find out what happened.
+
+Slant My clients have long memories and deep pockets. Other killers can be hired. Do you understand me? Even if they did not wish to terminate you, your reputations are equally easy to destroy. As my clients say - a lie can be halfway round the world before the truth has got its boots on. Good day to you.
+
+Slant exits.
+
+Mr Pin (with a sigh) Right, let's find this damn dog.
+
+Mr Tulip How we gonna do that?
+
+Mr Pin Intelligently.
+
+Mr Tulip I hate that ___ing way.
+
+Blackout.
+
+Scene Twelve
+
+The press room. The cellar is open. Otto is crawling around the floor, with ajar in one hand as Sacharissa enters.
+
+Otto (getting up) Miss Sacharissa? How did it go viz ze King of ze Golden River?
+
+Sacharissa OK. We got some paper. But we owe him eighty dollars and we have to print colour pictures of his daughter's wedding. He was very keen on that. How's the colour thing coming along?
+
+Otto I'm qvite confident. It vill vork.
+
+He starts to look around on theflooragain.
+
+Sacharissa Good — the bridesmaids will be wearing eau-de- nil - 1 hope you can do eau-de-nil? What are you looking for?
+
+Otto Vun of my dark light eels escaped from its jar.
+
+Sacharissa sees it under the press.
+
+Sacharissa There it is.
+
+She starts to reach for it.
+
+Otto Ah gut. No - don't touch it! Here, use ze jar.
+
+Sacharissa It's OK, I'm not squeamish.
+
+She grabs it. Dark light effect, during which the flame and rain effects are also visible. Sacharissa yelps and faints. Otto crosses to her and helps her into a sitting position. He starts to notice her neck and decolletage.
+
+It's OK, I'm fine. What happened?
+
+She sees the look on hisface.
+
+What's the matter? Are you all right?
+
+Otto Cheese! Get me some cheese! Or a big apple! Somesing to bite! Pleeease!! Keep avay. And stop breathing like zat!
+
+Sacharissa Like what?
+
+Otto Viz ze bosoms going in and out and up and down like zat! I am a vampirel But I vill be stronkl I vill not let everyvun down! (He sings) Oh vill you come to ze mission, vill you come, come, come. Zere's a nice cup of tea and a bun, bun, bun . . .
+
+Gunilla and Boddony enter.
+
+Boddony Are you all right, miss? Has he tried anything?
+
+Sacharissa No, no, he's. . .
+
+Otto (singing Zer drink zat's in zer livink vein is not zer drink for me . . .
+
+Sacharissa That's right, you can fight it (To the dwarfs) Have either of you any meat on you?
+
+Gunilla (taking a rat in a paper bag out of his pocket) I've got a rat for me tea.
+
+Sacharissa {passing it to Otto) Here! Here! (Otto rears away from it) No, no - it's rat! Rat's OK!
+
+Otto takes it and bites it.
+
+Otto Oh vot shame! Vot must you sink of me?
+
+Sacharissa No, we're all very impressed. (To the dwarfs) Aren't we?
+
+The dwarfs mutter agreement as they exit into the back of the shop.
+
+Otto But for a second zere I nearly . . .
+
+Sacharissa But you didn't. Well done. (Pause) What happened when I grabbed that eel?
+
+Otto A. Zis may not be zer time . . .
+
+Sacharissa Otto, I saw things. Flames. People. Noise. Molten metal. Silver rain underground. What happened?
+
+Otto Veil, zer eel absorbs dark light. Not darkness, but zer darkness vithin light. It is a light vizout time. Vot you see may not be now. Dark light is seen by ze dark eyes of zer mind.
+
+Sacharissa So it's a magical light that takes uncanny pictures.
+
+Otto Er, yes. Look at zis picture I took in Lord Vetinari's study.
+
+Sacharissa There's two Lord Vetinaris. I suppose that's because it's his office and he's in it all the time?
+
+Otto Maybe. And look at zis vun of Villiam. You see - his father, Lord de Vorde, is stood behind him. He vozn't zere ven I took zer picture. But, as you vill have observed, in a vay Villiam's father is alvays standing behind him.
+
+Sacharissa That's creepy. I wouldn't mention this to anyone else. We've got enough to deal with.
+
+Blackout.
+
+Scene Thirteen
+
+Onstage are a group of the robed figures. Slant enters.
+
+Lord de Worde Well?
+
+Slant They didn't get the dog. In other respects, I have to say, they have done a masterly job.
+
+Lord de Worde If things go wrong, who do these men know?
+
+Slant Only me. I would not worry unduly. Vimes plays by the rules. In any cast the Guilds will meet tomorrow to choose the new Patrician.
+
+Lord Rust Who will they choose?
+
+Slant That will be a matter for careful discussion and . . .
+
+Lord Rust Mr Slant? It is going to be Scrope, isn't it?
+
+Slant He is certainly well thought of by many of the city's leading figures.
+
+Lady Selachii Of course, a lot of powerful men owe their positions to Lord Vetinari.
+
+Lord Rust But to people who seek power, gratitude has very poor keeping qualities.
+
+Lady Venturii Will no-one speak up for Vetinari?
+
+Lord de Worde Oh, everyone. They'll say things like 'Poor fellow, it was the strain of office'. They'll say 'It's the quiet ones that crack'. Mr Scrope is a man of fine qualities.
+
+Lord Rust Good family man.
+
+Lady Venturi Listens to the common people.
+
+Lady Selachii Notjust to the common people, I trust?
+
+Lord de Worde Oh no. He's very open to advice. From informed . . . focus groups.
+
+Slant Is that all, gentlemen?
+
+Lord de Worde What about The Ankh-Morpork Times? Bit of a problem building up there?
+
+Slant People find it amusing. Nobody takes it seriously. The Inquirer already outsells it two to one. And it has some cashflow problems.
+
+Lady Venturi Good tale in The Inquirer about that woman giving birth to a snake.
+
+Slant Was there?
+
+Lord de Worde I'd feel happier if a few likely lads smashed up the press.
+
+Lady Selachii That would attract attention. The Times wants attention. The writer craves to be noticed.
+
+Lord de Worde Very well. But The Times will collapse. The young man is an idealist. He has yet to find out that what is in the public interest is not what the public is interested in.
+
+Lady Selachii Say again?
+
+Lord de Worde I mean, (ladies and) gentlemen, that most people think he's doing a good job, but what they are buying is The Inquirer. A good rumour will go around the world before the truth can get its boots on. Keep an eye on our . . . workmen, Mr Slant.
+
+They all drift off as the lights fade to blackout.
+
+Scene Fourteen
+
+The vestry of a church. Organ music, off. Stained glass gobo. Table with a brocade cloth and a large candlestick on it. To one side are a couple of hymn books on the floor.Mr Tulip stands, looking up at the cwindow'. Mr Pin enters, carrying a cassock which he holds up against Mr Tulip. It is far too small.
+
+Mr Pin I can't find anything in your size.
+
+He looks at Mr Tulip's nose.
+
+Have you been sniffing incense? It's for burning during the services not for getting high on, for gods' sakes . . .
+
+He exits again. The Old Priest enters and crosses to Mr Tulip.
+
+And lay off that oven cleaner, too. I want you focussed, understand? The only thing they've got that fits you is . . .
+
+Old Priest Hello? Are you here for the, mm, midnight service?
+
+He moves out to pick up thefallen hymn books. Mr Pin has entered behind him, carrying some black robes. He drops them, picks up the candlestick and is about to clock him with it. Mr Tulip grabs his arm.
+
+Mr Tulip (sotto voce) Are you mad? What kind of person are you?
+
+Mr Pin What? We can't let him . . .
+
+Mr Tulip (taking the candlestick from Mr Pin) I mean, look at the ___ing thing, will you? That's a genuine Sellini, that is. Look at the craftsmanship.
+
+Old Priest (turning to them) Actually, it's a, mm, Futtock.
+
+Mr Tulip What, the pupil? (He looks closer) Hey, that's right. There's the Sellini mark but it's stamped with a little 'F', too. Futtock was a much better silversmith. Pity about the ___ing stupid name. (To the Priest.) Do you know what this'd sell for, reverend?
+
+Old Priest (hopefully) We thought about seventy dollars. It came in a very nice box.
+
+Mr Tilip You still got that?
+
+Old Priest No, I'm afraid not.
+
+Mr Tulip ing shame.
+
+Old Priest Is it still worth anything? I think we've got another somewhere.
+
+Mr Tulip Four thousand dollars, to the right collector. Twelve thousand if you've got the ___ing pair. Futtock is very collectable at the moment.
+
+Old Priest Twelve thousand!
+
+Mr Tulip Could be more. It's a delightful piece. (To Mr Pin.) And you were just going to use it as a blunt instrument.
+
+He brings his first down hard on the Priest's head; the Priest collapses.
+
+And they just had it stuck away in a vestry. Honestly, I could ___ing spit!
+
+Mr Pin (picking up the robes) You want to take it with you?
+
+Mr Tulip (replacing it on the table) Nah. Fences round here would just melt it down for the silver. I couldn't have something like that on my ___ing conscience.
+
+Mr Pin (handing a robe to Mr Tulip) Well, let's get in disguise and find this dog, shall we?
+
+Mr Tulip Right you are, Brother Pin.
+
+Blackout as they exit.
+
+
+
+
+
+Act Two
+
+Scene One
+
+The print room. Boddony is on, working at some typeface. William enters, carrying a set of scales.
+
+William de Worde Quick, get Mr Goodmountain up.
+
+We've got to get out another edition! And can I have ten dollars, please?
+
+Goodmountain enters, in nightshirt, but still with his helmet on.
+
+Gunilla What is it, William? I think there's a bag of small change on the press.
+
+William de Worde No, I need ten dollar coins. I want to check how much seventy thousand dollars weighs.
+
+Boddony picks up the bag of money from the press.)
+
+Boddony Oh, there's definitely not seventy thousand dollars in here.
+
+William de Worde No, no. One dollar would do. Ten would just be a bit more accurate. I reckon seventy thousand dollars will weigh close on a third of a ton. A really good horse might just be able to carry that and a rider but Lord Vetinari - well he walks with a stick since he was shot. He'd take forever to load up the horse and even then they couldn't travel fast. I think Vimes has already worked all this out - he said the facts were stupid facts. Can you set some type, Gunilla?
+
+Gunilla nods.
+
+Right. Make the heading: 'Who Framed Lord Vetinari?' And then the story starts, er, 'Ankh-Morpork City Watch now believe that at least one other person was involved in the . . .'
+
+Gunilla Fracas?
+
+William de Worde No.
+
+Boddony Rumpus?
+
+William de Worde '. . . in the attack at the Palace on Monday night. Evidence suggests that far from attacking his clerk as had been believed, Lord Vetinari may have discovered a crime in progress.'
+
+Gunilla Are you sure about that?
+
+William de Worde No, but it's as good a theory as any other. The horse hadn't been loaded to escape, it had been loaded to be discovered. Someone had a plan and it went wrong. Right, new paragraph: 'A horse in the stables had been loaded with a third of a ton of coins . . . ' I'll check that in a moment . . . 'but in his current state of health, the Patrician was in no condition either to load the horse or to make a quick getaway.' Er . . . what else can we put in with this story?
+
+Gunilla This message came from Verence, King of Lancre: 'WOMEN OF LANCRE NOT REPEAT NOT IN HABIT OF BEARING SNAKES STOP. CHILDREN BORN THIS MONTH WILLIAM WEAVER, CONSTANCE THATCHER, CATASTROPHE CARTER ALL PLUS ARMS AND LEGS MINUS SCALES AND FANGS STOP.'
+
+William de Worde Hah! We have them! I'll put together a story on that, too. We'll soon see if the sword of truth can't beat the dragon of lies.
+
+Boddony Didn't you say a lie can run round the world before the truth has got its boots on?
+
+William de Worde It's my father's saying, not mine. But this is the truth!
+
+Boddony So where's its boots then?
+
+Gunilla You nip off to bed, Boddony. I'll pull it all together.
+
+Boddony exits.
+
+What are you doing this for, Mr de Worde?
+
+William de Worde What do you mean?
+
+Gunilla I'm not saying we don't appreciate it, mind. It keeps the money rolling in. That's why we started this. Money. But what are JWM doing it for?
+
+William de Worde Me? Because . . . I don't know. I suppose because I'm no good at anything else. Now I can't imagine doing anything else.
+
+Gunilla But your family's got pots of money.
+
+William de Worde Yes, but I'm useless. I was educated to be useless. The de Wordes are just supposed to hang around until there's a war and then do something stupidly brave and get killed.
+
+Gunilla You don't get on with your family, then?
+
+William de Worde Look, my father is not a nice man. He doesn't like me. I don't like him. In fact, he doesn't like anyone very much. Especially dwarfs and trolls.
+
+Gunilla No law against not liking us.
+
+William de Worde No, but there ought to be a law against not liking them the way he does. He won't even live in the city any more. Says it's polluted.
+
+Gunilla I've met humans like him.
+
+William de Worde You said it was all about money? Is that true?
+
+Gunilla Pretty much. We need gold to get married. You know, to buy ourselves from our parents.
+
+William de Worde Buy? How can you buy people?
+
+Gunilla Cultural misunderstanding there, lad. Costs a lot of money to raise a young dwarf to marriageable age. It needs repaying. It's traditional. 'Course, if you've been working for your parents that gets taken into account, too.
+
+William de Worde But we don't do it like that. We . . .
+
+Gunilla Oh? So what do you use, then?
+
+William de Worde Well, gratitude, I suppose.
+
+Gunilla And doesn't that cause problems?
+
+William de Worde Sometimes.
+
+Gunilla We know about gratitude, too. But our way a dwarf enters marriage in a state of . . . g'daraka . . . er, free, unencumbered. Then their parents might give them a huge wedding present. But it is between dwarf and dwarf. Out of love and respect, not between debtor and creditor like your gratitude. It works for us. Don't worry too much about your father, lad. People change. My grandmother used to think all humans were just hairless bears. She doesn't think that any more, though.
+
+William de Worde Why? What changed her mind?
+
+Gunilla I think it was the dying that did it.
+
+Gunilla pats William on the shoulder.
+
+Come on, lad, let's get the paper finished.
+
+Blackout.
+
+Scene Two
+
+Mrs Arcanum x Arcanum, Mackleduff, Cartwright on-stage, reading The Inquirer. William joins them as soon as he can.
+
+Cartwright I'm frankly amazed. It beats me how they find this stuff out.
+
+Mrs Mackleduff A woman in Kicklebury Street says her husband has been kidnapped by elves. (She reads) 'ELVES STOLE MY HUSBAND'.
+
+William de Worde That's just made up!
+
+Mrs Mackleduff Can't be. It's in the paper. Gives her name and address.
+
+William de Worde (looking) I know this lady! She was the one who said her husband had been carried off by a big silver dish that came out of the sky. And you, Mr Cartwright, said everyone knew her husband had carried himself off with a lady called Flo who used to be a waitress at Harga's House of Ribs!
+
+Mrs Arcanum I'm not partial to that kind of talk at the table. And you're too late for breakfast, you know.
+
+Cartwright Well then, it's obvious - he must have come back.
+
+William de Worde From the silver dish or from Flo?
+
+Mrs Arcanum Mr de Worde!
+
+William de Worde Is there anything in the . . . other paper?
+
+Mrs Mackleduff Oh, they're still trying to say that Vetinari didn't do it.
+
+Cartwright The Guild leaders are meeting to choose a new Patrician. They need to choose someone a bit more responsive to the views of ordinary people. The city's getting too big. Too many . . . outsiders, in my humble opinion. Anyway, Vetinari must've done something, otherwise why would he be helping the Watch with their inquiries?
+
+William de Worde (hotly) I believe there's plenty of evidence that throws doubt on his guilt.
+
+He exits.
+
+Cartwright Well!
+
+Mrs Mackleduff (reading) Oh, The Times has the King of Lancre saying women in Lancre don't give birth to snakes.
+
+Mrs Arcanum Well, he would say that, wouldn't he?
+
+Blackout.
+
+Scene Three
+
+A dark alley. William enters, crossly and leans against a wall, under a spotlight.
+
+William de Worde (to himself) They're impossible. They'll believe any old lies but tell them the truth and they just won't have it.
+
+Gaspode enters to a dimly-lit comer near William.
+
+Gaspode 'Scuse me, friend.
+
+William jumps, alarmed.
+
+Don't panic, I'm not a thief. Do you know what's good for you?
+
+William de Worde Healthy exercise, regular meals, good night's sleep. I think, though, that what you meant to ask was 'Do I know what's bad for me' in the general context of blunt instruments and sharp metal, am I right?
+
+Gaspode Broadly, yes. Don't move, mister. You stand where I can see you, and no harm will come to you.
+
+William de Worde Yes, but if I stand where you can't see me, I don't see how any harm could come to me there, either.
+
+Gaspode Look, meet me halfway, will you?
+
+William makes as if to move into the alley.
+
+No! Don't move!
+
+William de Worde But you just said . . .
+
+Gaspode (exasperated) Look just shut up and listen, will you? I am hearing that there's a certain dog people are looking for.
+
+William de Worde Yes. The Watch want him and . . . (He sniffs) Ron?
+
+Gaspode Do I sound like Ron?
+
+William de Worde Not exactly 'sound', no. So who am I talking to?
+
+Gaspode You can call me . . . Deep Bone.
+
+William de Worde Deep Bone?
+
+Gaspode Something wrong with that?
+
+William de Worde No, I suppose not. What can I do for you, Mr Bone?
+
+Gaspode Just supposin' someone knew where the doggie was but didn't want to get involved with the Watch?
+
+William de Worde Why not?
+
+Gaspode They have their reasons. I hear there's a reward. Only it was printed wrong in the paper 'cos it said twenty-five dollars and I reckon that should've been a hundred dollars, see?
+
+William de Worde That's a lot of money for a dog.
+
+Gaspode Yeah, but this one has a story to tell. About things that happened in the Palace a few mornings ago. To them as can understand dog talk, of course.
+
+William de Worde Werewolves, you mean?
+
+Gaspode Could be, could be, yes.
+
+William de Worde But the only werewolf I know is in the Watch. So give you a hundred dollars to hand Wuffles straight over to the Watch?
+
+Gaspode All right, the dog and an interpreter - one hundred and fifty dollars.
+
+William de Worde I want to see who I'm talking to.
+
+Gaspode Can't do that.
+
+William de Worde Oh well, that's reassuring. I'll just go and get a hundred and fifty dollars, shall I, bring it back here and hand it over to you just like that?
+
+Gaspode Good idea.
+
+William de Worde Not a chance.
+
+Gaspode Well, s'pose I give you a little snippet of information. As a taster.
+
+William de Worde Go on.
+
+Gaspode It wasn't Vetinari who stabbed the other man. It was another man.
+
+William de Worde Is there a description?
+
+Gaspode He has a dog bite on his ankle.
+
+William de Worde So I'm supposed to go around Ankh-Morpork, lifting people's trouser legs?
+
+Gaspode That's kosher info, that is. That'd worry some people, if you put it in your paper.
+
+William de Worde I'll need a better description than that!
+
+Gaspode Well, it dun't work that way with dogs, see? We . . . er, they look up at people, see. They, er, we just look like a wall with nostrils. What he smells like, mind, that's a different matter.
+
+William de Worde So, what does he smell like?
+
+Gaspode Do I see a pile of cash in front of me? I don't think so. You know, it'd save a lot of time and trouble if you just gave me the money and I told you everything.
+
+William de Worde You tell me everything, then I'll pay you.
+
+Gaspode Pull one of the others, it's got bells on.
+
+William de Worde Looks like we can't do business then.
+
+He makes as if to go.
+
+Gaspode Wait! All right. You ask Vimes what Vetinari did just before the murder.
+
+William de Worde What did he do?
+
+Gaspode See if you can find out.
+
+William de Worde That's not a lot to go on. (Pause) I said that's not a lot . . . hello?
+
+He peers further into the alley. Gaspode has gone. He starts to exit and then stops.
+
+'Pull one of the others' . . . ?
+
+He looks quickly around him and then exits as the lights black out.
+
+Scene Four
+
+The print room. Gunilla and Boddony are at work. Sacharissa is pushing out a person holding an animal box.
+
+Sacharissa (exasperated) No - it isn't Wuffles! How do I know? Because it's a cat, that's how!
+
+She pushes the person right off-stage. As the door opens, we hear a variety of animal noises. We hear her speak to another person.
+
+No, sir, and that is not Wuffles either. Putting a collar on a parrot and teaching it to say 'woof is not enough. Thank you.
+
+William enters from the back door as Sacharissa re-enters from thefront.
+
+Well now — who's been a clever boy? There's hundreds of them out there - dogs of all sizes, cats, budgies . . . I've even been offered a couple of goldfish!
+
+William de Worde What?
+
+Sacharissa Some complete muffin offered a reward! In Ankh-Morpork. They were queuing three deep when I got here. I mean, one man had a cow. A cowl
+
+William de Worde Sorry.
+
+Mr Pin and Mr Tulip enter. Mr Pin is dressed as a priest of Om. Mr Tulip is dressed very unconvincingly as a nun.
+
+Mr Pin I wonder, ah, if we can be of any assistance? Mm, I am Brother Upon-Which-the-Angels-Dance Pin. And this is Sister Jennifer, who is (Pointedly to Mr Tulip.) under a vow of silence. (To the others.) That means she does not, mm, talk. At all. Under any circumstances.
+
+Sacharissa Oh dear.
+
+Mr Pin Yes, mm, and we happened to be in Ankh Morpork as part of the Bishop Horn Ministry to Animals and heard that you were looking for a little doggie who is in trouble. We saw you were overwhelmed and perhaps we could help?
+
+He nods at Mr Tulip, who exits.
+
+Sacharissa The dog's a little terrier, but you'd be amazed what people are bringing in. We do have a picture of Wuffles.
+
+William de Worde It would help if we could print in colour.
+
+Mr Pin Probably. It was a kind of greyish-brown.
+
+William de Worde senses this is a dangerous question.
+
+William de Worde You know what colour you're looking for?
+
+Mr Pin draws William to one side and half draws his gonne.
+
+Mr Pin You just sort out the words, writer boy. This isn't anything to do with you, OK? Shout out, and someone gets killed. Make a sudden move and someone gets killed. In fact we might as well kill someone anyway and save some time, eh? You know that stuff about the pen being mightier than the sword?
+
+William de Worde Yes.
+
+Mr Pin Want to try?
+
+William de Worde No. (To Gunilla.) If you could just set that type, Mr Goodmountain.
+
+He gives a meaningful look to Gunilla and Boddony. Boddony opens the trap and descends into the cellar.
+
+Mr Pin Where's that dwarf going?
+
+William de Worde To the cellar to get some ink.
+
+Mr Tulip re-enters, carrying a big sack.
+
+Mr Pin How are we doing Sister Jennifer?
+
+Mr Tulip (normal voice) Got the ___ing terriers.
+
+Pin shakes his head violently. Tulip changes to a higher register.
+
+Got the ___ing terriers! And there's ___ing Watchmen at the end of the street!
+
+Otto enters from the cellar, carrying the camera and jar of eels.
+
+Mr Pin Who's that? He's a vampire! What's he holding?
+
+Otto Boo.
+
+Dark light effect. Everyone is badly affected by it but M r Pin screams out in fear and exits, screaming, followed by a bemused Mr Tulip.
+
+Everyvun OK?
+
+Gunilla We didn't know you used dark light!
+
+Otto Oh, excuse me. Mr Boddony said it vas urgent and the eels vere all I had to hand.
+
+Sacharissa Who were they?
+
+William de Worde I'm not sure. But they certainly wanted Lord Vetinari's dog.
+
+Sacharissa I'm sure she wasn't a proper virgin, you know. (The others all look at her) What?
+
+Gunilla (to Otto) You know that dark light is dangerous!
+
+William de Worde It certainly frightened those two off.
+
+Vimes enters.
+
+Vimes Ah, Mr de Worde. There's animals rampaging all over the city.
+
+William de Worde Uh, we had a bit of a problem.
+
+Vimes Never? Really? Anything you need to tell me?
+
+William de Worde What was it Lord Vetinari did just before the . . . accident?
+
+Vimes pulls William to one side.
+
+Vimes All right, Mr de Worde, we'll do it your way. What do you know?
+
+William de Worde I don't know. But I think Lord Vetinari did something remarkable not long before the crime.
+
+Vimes (referring to his notebook) 'He entered the Palace by the stables sometime before seven o'clock and dismissed the guard.'
+
+William de Worde He'd been up all night? Is that unusual? Not part of the routine?
+
+Vimes Well, nor is stabbing your clerk and trying to run off with a heavy sack of cash. We did notice that, you know. We only look stupid. Oh . . . and the guard said he smelled spirits on his lordship's breath.
+
+William de Worde Does he drink?
+
+Vimes No. Now look - they're electing a new Patrician today . . .
+
+Sacharissa That'll be Mr Scrope, of the Shoemakers and Leatherworkers.
+
+Vimes And I hear that the first thing Mr Scrope will do is to pardon Lord Vetinari. Clean sheet. Fresh start. Poor chap. Overwork. Bound to crack.
+
+William de Worde But you know Lord Vetinari didn't . . .
+
+Vimes Do I?
+
+He exits. William sees a picture on the floor next to the camera.
+
+Hello? What have we here?
+
+Otto Ah, zat vill be ze picture I took ven zose men vere here.
+
+William de Worde Look! What are all those people behind the so-called priest?
+
+Otto Oh dear. He is not a good man. Zis is not good for him. All zose faces in zer shadows.
+
+William de Worde What happened?
+
+Otto Veil, under stronk dark light ze picture really does not lie. It reveals zer truth in zer dark corners of zer mind.
+
+Gunilla This is unholy stuff. No more meddling with it, understand?
+
+He takes the photo off William.
+
+I'm telling you. I don't want any more of these . . . these prints of darkness!
+
+William de Worde Yes, no more of this stuff, Otto. Let's get back to normal.
+
+Boddony and Gunilla OK then.
+
+They exit.
+
+William de Worde What's it all for, though? The paper comes out - it doesn't seem to matter.
+
+Sacharissa What did you expect? Look, this paper is some sort of hobby to you, isn't it? If it all goes pear-shaped, you'll still have money, /won't.
+
+William de Worde I don't have money!
+
+Sacharissa Yes, but you were able to choose.
+
+William de Worde But - someone has to care about the . . . big truth.
+
+Sacharissa We're not getting enough advertising. The Inquirer gets huge ads from the big Guilds. That's what keeps them going, not stories about how much gold weighs.
+
+William de Worde What am I supposed to do?
+
+Sacharissa Find a way of getting more ads! Look, I know this means a lot to you but it's the Watch's job, not ours.
+
+William de Worde Tomorrow we'll get more ads.
+
+He pulls a key out of his pocket and turns to Sacharissa.
+
+Here, the key to our town house. It's deserted now that father's moved outside the city. He stays in his club now if he has to stop overnight within the city walls. Take Boddony with you, though -just in case.
+
+Sacharissa It's a bit late.
+
+William de Worde You'll need a posh frock for that ball at Lady Selachii's. My father's had most of the furniture moved to his new house, but my sister left lots of dresses in the huge wardrobes in her room. Top of the main staircase - fifth door on your right. Leave the others to get on with the paper and go and have a look. I expect we can find someone to do your hair properly, too.
+
+Sacharissa It's true — you really do have an amazing way with words!
+
+William de Worde And I don't think those men will be back. I've a feeling there isn't a shed anywhere in Ankh-Morpork that's guarded as well as this place right at the moment.
+
+Sacharissa So what are you going to do?
+
+William de Worde First I'm going to the nearest apothecary for a quality stink bomb. I need to put a werewolf off the scent, as it were. Then - I'm going to see a man about a dog.
+
+Lights change to the dockside. There is a sort of splash and Pin and Tulip enter. Mr Pin is very jumpy and keeps looking behind him.
+
+Mr Pin Come on!
+
+Mr Tulip That ___ing sack was heavy! I fought you wanted to keep the dog? Why'd we throw them all in the river? I told you ___ing clever plans don't work. What did that vampire do to us?
+
+Mr Pin He took some kind of picture.
+
+A couple of dark figures(Mr Pin's victims) enter. Only Mr Pin can see them.
+
+Who's that?
+
+Mr Tulip (looking) Where? I can't see no-one. Look, we done the ___ing job. I say we scrag the geek, take the money and scram.
+
+Mr Pin You mean quit on a contract? Someone would recognise Charlie, though. It's hard for the dead to stay dead round here. This place is getting to me. Vampires, werewolves . . . I think we should go and explain things to our lawyer friend.
+
+Mr Tulip Right, and then I'll rip his head off.
+
+Mr Pin That doesn't kill zombies.
+
+Mr Tulip Good, 'cos then he'll be able to see where I'm gonna ___ing shove it!
+
+Mr Pin And then we'll pay another visit to that news paper. Very inflammable stuff, paper.
+
+Tulip exits, followed by Pin and the shadowy figures.
+
+But first we'll . . . who's that behind me?
+
+Mr Tulip No-one.
+
+Mr Pin pulls out his gonne.
+
+Mr Pin It's time Mr Slant said hello to my little friend.
+
+Blackout.
+
+Scene Five
+
+Dark streets. William sneaks on, he is followed by Angua in were wolf form. He turns and throws a stink bomb at her. She yelps, swats at her muzzle and exits, yelping. William moves over to the wall by the alley. Gaspode is off-stage.
+
+Gaspode Don't turn around, Mr Writer man. You sure you weren't followed?
+
+William de Worde Corporal Nobbs was on my trail. But I shook him off. I knew Vimes would have me tracked.
+
+Gaspode By Nobby Nobbs?
+
+William de Worde Yes. Well - obviously in his werewolf shape . . .
+
+Gaspode (flatly) Werewolf shape.
+
+William de Worde Yes. I'd be grateful if you wouldn't
+
+tell anyone else.
+
+Gaspode (flatly) Corporal Nobbs? A werewolf?
+
+William de Worde Yes, look Vimes told me not to . . .
+
+Gaspode Vimes told you Nobby Nobbs was a werewolf?
+
+William de Worde Well, not exactly.
+
+Gaspode Corporal Nobbs is not a werewolf, mister. Not in any way. Whether he's human or not is another matter.
+
+William de Worde So who did I drop that stink bomb in front of, then?
+
+Gaspode A stink bomb? In front of a werewolf? Mr Vimes is going to go round the twist. He's going to go totally librarian-poo.
+
+William de Worde Then I'd better get hold of Vetinari's dog as soon as possible. All I can afford is fifty dollars. Right now, Mr Bone, there's a couple of very nasty men indeed hunting down every terrier in the city . . .
+
+Gaspode Terriers? All terriers?
+
+William de Worde Yes, and I . . .
+
+Gaspode Like . . . pedigree terriers, or just people who happen to look a bit terrier-like?
+
+William de Worde I don't think they're checking for kennel club certificates.
+
+Gaspode All right, fifty dollars. Tonight. The Misbegot Bridge. I won't be there. I'll send . . . a messenger.
+
+William de Worde Right.
+
+He goes. A moment, then Gaspode enters, with Foul Old Ron and the Duck Man.
+
+Duck Man Those men are hunting terriers?
+
+Gaspode Yeah - but I've got to be out and about! I'm a figure in this town! I can't lie low - 1 need a disguise!
+
+Foul Old Ron Blewitt.
+
+Duck Man A disguise? Yes, a dog is not just a dog. Come on.
+
+They exit as the lights cross-fade to Vimes and Angua. Angua has a hanky to her nose.
+
+Angua Sorry about this, sir, he gave me the slip.
+
+Vimes His feet won't touch the ground. He's assaulted an officer.
+
+Angua Well, that's where it gets tricky, sir, isn't it?
+
+Vimes You're an officer, Sergeant, whatever shape you happen to be.
+
+Angua Yes, but up to now it's been better for the . . . werewolf thing . . . to be kept a rumour. It's my own fault, anyway, sir, for underestimating him. And I'll be fine in a couple of hours.
+
+Vimes He's a quick learner, our Mr de Worde. He's got a pen and a printing press and suddenly everyone's acting like he's a major player. Well, he's going to have to learn a bit more. He doesn't want us watching? Well, we won't any more. He can reap what he sows for a while.
+
+Angua But, sir . . .
+
+Vimes That sign on my desk says 'Commander Vimes'. That means the buck starts here. It was a command you just got.
+
+Angua Sir.
+
+Scene Six
+
+Back at the alley. William is on-stage, waiting. Gaspode is in the wings.
+
+Gaspode Hello, mister.
+
+William de Worde Deep Bone?
+
+Gaspode I'm sending a . . . a guide for you to follow. Name of, name of . . . Trixiebell. Just you follow him and everything will be OK, yeah?
+
+William de Worde Yes.
+
+Gaspode enters. He is disguised as a pink poodle.
+
+Gaspode Yip.
+
+William de Worde Hello, little . . . dog?
+
+Gaspode Yip, yipyip. Sheesh. Yip. Whine?
+
+William de Worde Right. Lead on.
+
+Lights down for a second. Lights come up to reveal the beggars under the Misbegot Bridge. Water effect. As William walks into the scene, Gaspode sidles off.
+
+Oh . . . good evening, gentlemen.
+
+Gaspode Let's see yer money, then.
+
+William holds out the bill. Duck Man takes it.
+
+Duck Man Seems to be in order.
+
+William de Worde So - can I see the dog?
+
+Gaspode Show 'im, Ron.
+
+Ron opens his coat. Wuffles is in there.
+
+William de Worde You've been carrying him around? That's all there was to it?
+
+Gaspode Who's going to search Foul Old Ron, eh?
+
+William de Worde Good point. Or smell him out.
+
+Gaspode Now you got to remember Wuffles is a bit old, and he wasn't exactly Mr Brain to start with. Don't expect a philosophical treatise, is what I'm sayin'.
+
+Duck Man Would you care for a cup of tea?
+
+He holds up a blackened teapot and a very grimy looking
+
+William de Worde Er . . . why not. (Hurriedly) But no milk, though.
+
+Duck Man (pouring the tea) Ah - I said you were a gentleman. Milk in tea is an abomination.
+
+He hands the tea to William as Coffin Henry holds out a grubby saucer with lemon slices on it and a small pair of tongs. Duck Man picks up a slice of lemon and holds it over William's mug.
+
+Slice of lemon?
+
+William de Worde Lemon? You have lemon?
+
+Duck Man Oh, even Mr Ron here would rather wash under his arms than have anything but lemon in his tea.
+
+He plops the lemon into William's tea.
+
+We're very fortunate when it comes to slices of lemon . . .
+
+William takes a big swig from his tea.
+
+Why it is indeed a bad day when we can't find two or three slices floating down the river.
+
+William 'sface is a picture - spit or swallow?
+
+Is something wrong, Mr William?
+
+William de Worde Mmf.
+
+Duck Man Is it too hot?
+
+William gratefully sprays his tea back into the cup.
+
+William de Worde Yes! Too hot! Lovely tea, but - too hot! I'll just put it down here to cool, yes?
+
+He does so, then turns to Wuffles.
+
+So, Wuffles, which man was it you bit on the leg?
+
+Wuffles barks.
+
+Gaspode He bit all of them.
+
+William de Worde Would you know them if you bit them again?
+
+Wuffles barks.
+
+Gaspode Yes. He tasted of . . . hot water, soap . . .
+
+William de Worde A bath?
+
+Wuffles and Gaspode yelp.
+
+Gaspode That's it - the 'b'word. The other smelled of cheap hair oil and the one that looked like Lord Vetinari smelled of wine.
+
+William de Worde I'd like to get a picture of Wuffles. Can I bring my iconographer down here?
+
+Duck Man This is a select neighbourhood. We don't allow just anyone down here, you know.
+
+William de Worde But there's a path running under the bridge! Anyone could walk right past!
+
+Coffin Henry Werl, yes. They could. (He coughs expertly) But they don't.
+
+Foul Old Ron Buggrit. Choking a tinker? Garn!
+
+William de Worde Then you'd better come back to the office with me.
+
+Gaspode Too dangerous now.
+
+William de Worde Would it be less dangerous for another fifty dollars?
+
+Andrews Another fifty dollars? That'd make it fifteen dollars!
+
+William de Worde (wearily) A hundred dollars.
+
+Gaspode All right, then.
+
+William de Worde Good. Come on.
+
+Scene Seven
+
+Slant's office. Mr Slant walks in, carrying some papers. Pin and Tulip burst on and confront him.
+
+Slant Gentlemen?
+
+Mr Tulip Don't try a ___ing thing!
+
+Mr Pin There's something you should know . . .
+
+Hepulb out the Disorganiser and presses its rewind button.
+
+Disorganiser Nyip . . . nyapnyip . . . nyapdit. . .wheedlewheedle . . .
+
+Slant And what is that thing?
+
+Mr Pin It's a Disorganiser. I'm just rewinding its memory . . .
+
+Disorganiser (Slants voice) 'My clients have long memories and deep pockets. Other killers can be hired. Do you understand me?'
+
+Disorganiser's voice, as Pin switches it off.
+
+Ouch!
+
+Slant Would you like a drink, Mr Pin? A banana for your monkey, perhaps?
+
+Mr Tulip I told you - I'm goin' to ___ing kill him!
+
+Slant Too late, alas. Very well, Mr Pin. This is about money, yes?
+
+Mr Pin All we're owed, plus another fifty thousand.
+
+Slant But you haven't found the dog.
+
+Mr Pin Nor have the Watch, and they've got a werewolf!
+
+Forget the dog - it's this box which is important.
+
+Slant That is very little in the way of evidence.
+
+Mr Pin Really? You asking us about the dog? Talking about killers? I reckon Vimes would niggle away at stuff like that. OK, you've got stuff on us, and some of it might be considered criminal...
+
+Mr Tulip All them ___ing murders for a start.
+
+Mr Pin But, since we are criminals, that could be called typical behaviour, whereas a respectable citizen such as you . . . well people talk.
+
+Slant Very well, to save any . . . misunderstandings, I will give you . . .
+
+Mr Pin (interrupting) Jewels.
+
+Mr Tulip We like jewels.
+
+Slant I wonder if I can trust you?
+
+Mr Pin (patiently) Well, you see, it's like this . . . If news got round that we'd shopped a client, that wouldn't be good. But if the people we deal with heard we'd scragged a client because the client had not played fair, they would say 'These people are businesslike. They are businessmen. They do business.'
+
+A couple of Pin's 'shadows' can be seen in the corner of the room. M Pin notices them.
+
+Slant And?
+
+Mr Pin (blinking and shaking his head) And . . . and . . . the hell with this. Give us the jewels or Mr Tulip will be doing the asking! We're getting out of here! I've had enough of your damn city with its dwarfs and vampires and dead men walking! So give us the jewels, right now!
+
+Slant Very well. And that box . . . ?
+
+Mr Pin Goes with us. We get caught, it gets caught. We die mysteriously . . . some people find out about things. If we get safely away, well you'll have to trust us because you're in no position to argue and I am not having a good day!
+
+Slant gets a couple of bags of jewels.
+
+Check 'em, Mr Tulip.
+
+Mr Tulip checks the contents of one of the bags.
+
+Mr Tulip You think I'm some kind of ___ing idiot?
+
+Mr Pin Don't even think of arguing.
+
+Slant Perhaps the jewellers made a mistake?
+
+Mr Pin Yeah?
+
+He reaches into his coat and draws out his gonne. The bolt has a wad of cotton wool tied to it. Pin speaks in an almost trance-like way.
+
+This is a bad thing I am about to do. But I done so many bad things, this one'll hardly count. It's like . . . a killing is a big thing, right? But another killing, that's kind of half the size, you know? So, when you done, say, twenty killings, they barely notice, on average.
+
+He lights a match or lighter and waves it near the end of the
+
+But, but . . . it's a nice day today, the birds is singing, there's stuff like . . . kittens and stuff, and the sun is shining off the snow, bringin' the promise of spring to come with flowers and fresh grass and more kittens on hot summer days and the gentle kiss of the rain and wonderful clean things which you won't ever see ifyou don't give us the real jewels 'cos you'll burn like a torch you double-dealing twisty dried-up cheating son of a bitch!!
+
+Slant quickly produces more bags of jewels which he hurriedly passes to Tulip.
+
+Mr Tulip Rubies. ___ing good ones.
+
+Slant Now go away from here. Right away. Never come back. I've never heard of you. I've never seen you.
+
+Pin is still transfixed by the shadowy figures.
+
+Mr Pin Right. (He blows out the flame) Right. (He focuses on Slant.) I think I shall let you live today. Tomorrow . . . who knows?
+
+Slant spins on his heel and exits. Pin starts to stare again at shadowy figures.
+
+Mr Tulip So - we'll be heading off now, eh? (No answer.) No point in hangin' around here, eh? (Mo answer.) How come you didn't kill that ___ing zombie?
+
+Mr Pin What do you think happens when we die, Tulip?
+
+Mr Tulip You know that. Remember when we had to leave that guy in that ___ing barn and it was a week before we got to bury him. Remember how his . . .
+
+Mr Pin I don't mean bodiesl
+
+Mr Tulip Ah, religion stuff, eh?
+
+Mr Pin Yes.
+
+Mr Tulip I never worry about that ___ing stuff! I've got my potato.
+
+Mr Pin Potato?
+
+Mr Tulip Oh yeah.
+
+Mr Tulip Oh yeah.
+
+He draws out a dried-up spud on a string around his neck.
+
+See?
+
+Mr Pin And that's religious?
+
+Mr Pin And that's religious?
+
+Mr Tulip Well, yeah. When you die, if you've got your potato, everything'll be OK. You're allowed to come back and have another life.
+
+Mr Pin Even if . . . you've done things which some people might think were bad?
+
+Mr Tulip What? Like choppin' people up and shovin' them off cliffs?
+
+Mr Pin Yeah, that kind of thing.
+
+Mr Tulip We-e-ell, it's OK so long as you're really ing sorry about it.
+
+Mr Pin (looking twitchily around him) It works?
+
+Mr Tulip Yep.
+
+Mr Pin And you come back alive?
+
+Mr Tulip Sure. No point in coming back dead - who'd notice the ___ing difference?
+
+One of the shadowy figures touches Pin on the shoulder. He starts.
+
+What's up?
+
+Mr Pin Someone's got their hand on my shoulder!
+
+Mr Tulip You OK?
+
+Mr Pin Can't you see them?
+
+Mr Tulip Nope.
+
+Mr Pin tries to bring his mind back to reality.
+
+Mr Pin OK. OK, what we'll do . . . we'll go back to the house, OK, and . . . we'll get the rest of the jewels, and we'll scrag Charlie and, and . . . and we'll find a vegetable shop . . . any special kind of potato?
+
+Mr Tulip Nope.
+
+Mr Pin But first . . .
+
+He looks round at the shadows.
+
+All this is down to what that damned vampire did. And hey - killing a vampire? That's practically good). Yeah, I think those news paper people are due another visit.
+
+Mr Tulip Yeah, but who cares?
+
+Mr Pin /do!
+
+They exit. Blackout.
+
+Scene Eight
+
+The deserted house. Darkness. We hear footsteps on a wooden staircase, along a landing. A door creaks open and Sacharissa enters, folbwed by Boddony who is carrying a lighted lantern. The room now lit in an eerie glow.
+
+Sacharissa Ah, this is the one - there're the wardrobes.
+
+She crosses the room and exits to rummage for clothes.
+
+Boddony Did you see the footprints, miss? In the dust?
+
+Sacharissa (off) Yes. Probably the cleaner.
+
+Boddony There's lots of them. What does she do - kick the dust to death?
+
+Sacharissa (off) Perhaps there's caretakers and such? Gosh, these dresses really stink of mothballs.
+
+She enters, carrying a flashy evening gown.
+
+Do you think a dress like this would be too forward?
+
+Boddony You're quite a lot forward already.
+
+Sacharissa I meant make me look like a fast woman?
+
+Boddony Nah. No-one could run fast in a dress like that.
+
+Charlie can be heard singing, off.
+
+What's that?
+
+Sacharissa (a little nervous) Caretaker, I expect - we'd better just, you know, mention that we've been here . . . ?
+
+Boddony (moving towards a doorway) It seems to be coming from in here.
+
+Sacharissa crosses to the entrance and peers off.
+
+Sacharissa Hello? Erm, William, that is Mr de Worde said it'd be all right?
+
+Charlie (off) Hello! How are you? I'm fine!
+
+Sacharissa Er . . . are you all right?
+
+Charlie appears in the doorway. He is squiffy and has a chain around his ankle which prevents him coming much further in than just into the doorway.
+
+Charlie (sniffing) Poo, Mr Mothball Nose! Whoops! Can't get . . . haha . . . it's all . . . chains.
+
+Sacharissa Are you ill?
+
+Charlie No'm fine. I've just had a few too many . . .
+
+Sacharissa A few too many what?
+
+Charlie Wazza . . . things you put drink in . . . barrels?
+
+Sacharissa You're drunk?
+
+Charlie Tha's right. Drunk as a thing. Smelly thing. Heehee.
+
+Sacharissa (seeing the chain) Are you a prisoner?
+
+Mr Pin and Mr Tulip enter.
+
+Charlie Woo! The gang's all here!
+
+Mr Tulip Who the ___ing hell are you?
+
+Boddony crosses to Tulip, who thumps him on top of the head.
+
+Boddony collapses.
+
+Sacharissa Don't you dare swear at me! How dare you swear in the presence of a lady!
+
+Mr Tulip (nonplussed) I didn't ___ing swear!
+
+Sacharissa Hold on - you're that nun - I knew you weren't a proper virgin.
+
+Mr Pin's shadowy figures enter after him.
+
+Mr Pin pulls out his gonne and points it at Sacharissa.
+
+Mr Pin Just what are you doing here, young lady?
+
+Sacharissa And you were Brother Pin! You haven't any right here! I've got a key!
+
+Mr Pin A key? So have I? (He holds it up) Who'd give you a key? You are coming with us and don't say you'll scream because we're all alone here and I've . . . heard . . . lots of . . .
+
+Thegonne wavers in his hand, he looks as though he might fall to knees.
+
+Mr Tulip Let's just scrag 'em now.
+
+Mr Pin Chain them up and leave them.
+
+Mr Tulip But we always . . .
+
+Mr Pin Leave them!
+
+Mr Tulip You sure you're all right?
+
+Mr Pin No. Just leave them, OK? We haven't got time.
+
+Mr Tulip We've got lots of . . .
+
+Mr Pin I haven't! (He crosses to Sacharissa.) Who gave you that key?
+
+Sacharissa (triumphantly) This house belongs to Lord de Worde and his son gave me the key. There! He was the one at the news paper. So - now you know what you've got yourself into, eh?
+
+Mr Pin No, but I'm going to find out. Don't try anything.
+
+Really don't scream. Walk normally and . . . I was going to say everything will be all right. (He leans in to her) But that would be silly, wouldn't it?
+
+Blackout.
+
+Scene Nine
+
+The print room. William is on with Gunilla, Foul Old Ron, Wuffles and Trixiebell. Pin enters, with Sacharissa in front of him, followed by Tulip and Boddony.
+
+Mr Pin Ah, our writer man. And you've brought me the little doggie.
+
+Wuffles growls.
+
+William de Worde The Watch will be here soon.
+
+Mr Pin Doesn't worry me now. Not with what I know. Not with who I know. Mr Tulip? Lock the front door, will you? That'll slow them down a bit if they do turn up.
+
+(Tulip does so) Where's the damn vampire?
+
+William de Worde (crossly) I don't know! He's not always with us!
+
+Mr Yin puts the muzzle of the gonne into William 'sface and picks up a lantern from the press.
+
+Mr Pin Really? Then let me retort . . . if it, he doesn't arrive within two minutes I will personally torch your establishment, first having locked all you lot inside . . .
+
+Wuffles lunges forward and bites Pin on the ankle. He yelps, drops the lantern and hobbles around holding his shin. There is an explosion and aflame effect - the press is on fire! Sacharissa knees Tulip in the parsnips; he folds up double.
+
+William de Worde Quick! Get out! Now!
+
+Everyone, except Pin and Tulip, starts to exit.
+
+Gunilla (as they exit) But the press?
+
+William de Worde Better the press than us - come on!
+
+Tulip starts to follow the others off. Another explosion, in front of him.
+
+Mr Tulip The doorway's blocked!
+
+Mr Pin Quick - down here!
+
+They exit down into the cellar. Blackout. Lights up again in the gloomy cellar. We can hear the fire roaring above them. Some smoke drifts
+
+Mr Tulip We're ___ing trapped down here!
+
+Mr Pin No - this is stone. Stone walls, stone floor, stone ceiling. Stone doesn't burn, OK? We're just nice and calm down here and wait it out.
+
+Tulip picks up the eel jar from the floor.
+
+Mr Tulip Hey - here's some of that vampire's equipment. What's these worm things in this ___ing jar?
+
+He brings them over.
+
+Why does it say 'Handle Viz Care' on it?
+
+The jar slips in his hand — he catches it, but there is a flash of dark light. The shadowy figures reappear. Mr Pin screams and puts his hands to his head.
+
+You all right?
+
+Mr Pin They're right behind me!
+
+Mr Tulip Nah, there's just you and me down here, old friend. Calm down. Remember some good times, take your mind off all this. Hey, remember when Gerhardt the Boot and his lads had us cornered in that ___ing cellar in Quirm? Remember what we did to him afterwards?
+
+Mr Pin Yes. I remember.
+
+Mr Tulip And that time that old man was in that house and we didn't know? And we nailed up the door and set fire . . .
+
+Mr Pin Shut up! Shut up! We shouldn't have killed all those people.
+
+Rain effect starts.
+
+Mr Tulip Oh, hello - this'11 put the fire out - it's raining.
+
+Mr Pin That's not water! That's melting lead! Hot lead they print the paper with it! We'll fry!
+
+Mr Tulip No, we're all right in here. Can't touch us.
+
+Mr Pin Are you mad? We'll be inches deep in molten metal in a few minutes! It'll burn our feet off- and there's
+
+nothing to stand on!
+
+Mr Tulip (pointing out front) That bench!
+
+Mr Pin You can't get across there! The dripping lead would kill you before you got to it. We need something to stand on for a few minutes until it sets.
+
+Mr Tulip But there's nothing under here but us! We're ___ing trapped!
+
+Mr Pin I . . . have a plan.
+
+Mr Tulip Good.
+
+Mr Pin My plans are pretty good, right?
+
+Mr Tulip Yeah, you come up with some ___ing wonders.
+
+Mr Pin I'm always thinking about the good of the firm, right?
+
+Mr Tulip Yeah, sure, right.
+
+Mr Pin So this plan . . . it's not, like, perfect but . . . oh, the hell with it. Give me your potato.
+
+Mr Tulip What?
+
+Mr Pin whips out the gonne and thrusts it into Tulip's face.
+
+Mr Pin No time to argue! Gimme the damn potato right now! This is no time for you to think!
+
+Uncertainly, Tulip hands over the potato.
+
+Right. The way I see it . . . the way I see it, I'm a small man, Mr Tulip. You couldn't stand on me. I wouldn't do. You're a big man, Mr Tulip. I wouldn't want to see you suffer.
+
+Tulip realises. Tableau. Blackout. Moise of gonne.
+
+Scene Ten
+
+The print room. Mext day. Smouldering remains of the press. Smoke.
+
+William, Sacharissa, Boddony and Gunilla enter.
+
+William is carrying the scorched spike, still with some charred bits paper on it.
+
+William de Worde (to Gunilla) Look, I'm sorry.
+
+Gunilla Not your fault.
+
+Sacharissa Can it be rebuilt?
+
+Gunilla No, it's scrap. And we've no type, no ink, no paper!
+
+William de Worde The spike seems to have survived. Bit scorched, though.
+
+Sacharissa (ignoring that) Right, so we need to get another press . . .
+
+Gunilla Look, even an old scrap one would cost over a thousand dollars. It's over.
+
+Sacharissa I've got some savings. Perhaps we could make do with a hand press to start off with.
+
+William de Worde I could probably go further into debt for another couple of hundred dollars.
+
+Sacharissa We could put a tarpaulin over the roof.
+
+William de Worde Yes, a few days' work should get this place in shape.
+
+Gunilla Hel-loo! This is sanity calling! We have no moneyl
+
+Sacharissa Not much room to expand, though. You know, magazines and so on. To make use of the dead time on the press.
+
+Gunilla Dead time on the press? The press is dead!
+
+William de Worde What sort of magazines?
+
+Sacharissa Oh, fashion, knitting, that sort of thing.
+
+Gunilla Hello? Hello? My mouth is opening and shutting - is any sound getting out?
+
+Sacharissa And one about cats. 'Completely Cats', we could call it.
+
+Gunilla 'Completely Cats'? Completely batsl
+
+William de Worde There's a problem.
+
+Sacharissa Yes?
+
+William de Worde We don't have enough money for a new press. We're out of business. It's all over. Do you understand?
+
+Sacharissa Yes. I just hoped you didn't.
+
+William de Worde And we were so close. So close. I'll just have to hand it all over to Vimes . . .
+
+Boddony Where's the lead?
+
+William de Worde What?
+
+Boddony There's no sign of it.
+
+Gunilla In my experience, twenty tons of lead does not just get up and walk away.
+
+Boddony It must've melted.
+
+Gunilla The cellar. (He crosses to the hatch.) The hatch is a bit stiff. Give me a hand here, will you?
+
+William comes round and they tug at the trapdoor. It bursts open and, swathed in smoke, Mr Pin rises like a demon king, waving a flick knife. He crosses to William. There is a tussle and M r Pin impales himself on the spike, which William is still carrying. He stands and looks down at the metal.
+
+Mr Pin Ah. S'all right, see? Got my potato . . . (He has it round his neck) Not . . . not a very funny one, though. (He dies)
+
+Otto enters.
+
+Otto Vot has been happening here? I leave zer place for five minutes and you burn it to zer ground.
+
+William de Worde I wish I'd had the chance to ask him a few questions.
+
+Boddony You mean like, 'Is this the first time you've strangled anyone?' or 'How old are you, Mr Killer?'.
+
+There is a small cough - it is the Disorganiser in Yin's pocket.
+
+William de Worde What's that noise?
+
+He searches Pin and pulls out the Disorganiser.
+
+A personal Disorganiser? A killer with a personal Disorganiser?
+
+Boddony The Things To Do Today section should be interesting, then.
+
+William opens the box.
+
+Disorganiser Hello Insert Name Here. Erase Memory Yes/No?
+
+William de Worde Er . . . NO! What is it you're
+
+remembering?
+
+Disorganiser You have to press the replay button first.
+
+William de Worde Wait.
+
+He closes the box. Boddony has gone over to the trap and looked William goes through Yin's pockets.
+
+Boddony There's a man down there, lying in lead. He's a bit on the cooked side. There's an arrow through his head.
+
+William pulls out the bags of jewels and hands them to Gunilla.
+
+William de Worde How much are these worth?
+
+Gunilla Tens of thousands. Could be a hundred thousand. He must've stolen them.
+
+William de Worde No, a theft that big we'd have heard about. There's a story here. (To Sacharissa.) What else is in his pockets?
+
+Sacharissa This wallet - it says 'Not a Very Nice Person At All' on the front. What kind of person would put that on a wallet?
+
+William de Worde Someone who isn't a very nice person. What's in it?
+
+Sacharissa An address. Oh dear. I didn't have time to tell you this earlier, William . . .
+
+Gunilla If these aren't stolen, they could be worth top dollar . . .
+
+William de Worde What's the address?
+
+Sacharissa It's your family's house. That's where these men caught me. They had a key and everything. And there was a drunken man all chained up and he looked just like Lord Vetinari and . . . .
+
+William hits the replay button on the Disorganiser.
+
+Disorganiser Ow. Nyipnyip . . . mapnyap . . . wheedlewheedlewhee . . . (Mr Yin's voice) Testing, testing . . . say something Mr Tulip. (Mr Tulip's voice) I'm not speaking into no ___ing box!
+
+William de Worde Forward a bit.
+
+Disorganiser Wheedlewheedlewheedle . . . (Slants voice) I can add another five thousand dollars to your fee . . .
+
+Boddony That's Slant! That lawyer!
+
+Gunilla What shall we do with these jewels, then?
+
+Disorganiser (Slants voice) My clients have long memories and deep pockets.
+
+William de Worde Slant was paying them, but he was working for clients. And one of the men who attacked Vetinari and Drumknott had a key to our house!
+
+Disorganiser Wheedlewheedlewheedle . . . a lie can run round the world before the truth has got its boots on.
+
+Sacharissa Right. Obviously, we . . .
+
+William presses replay again.
+
+Disorganiser Wheedlewheedlewheedle . . . can run round the world before the truth has got its boots on. Wheedlewheedlewheedle . . . round the world before the truth has got its boots on. Wheedlewheedlewheedle . . . before the truth has got its boots on. Wheedlewheedlewheedle . . . truth has got its boots on.
+
+Sacharissa Are you all right, William?
+
+William de Worde Mr Goodmountain? Those jewels? Can you get me another press? I want to go to press in half an hour. Otto, I want a picture of Brother Pin's leg with the dog bite. I want quotes from everyone, including Wuffles, and I want a printing press!
+
+Gunilla But we can't just get another press just like . . .
+
+William de Worde We have money. The Engravers have a press. Let's go and see them, shall we?
+
+Blackout.
+
+Scene Eleven
+
+Carney's print room. A sign reads: 'ROMALD CARNEY PRINTERS TO THE GENTRY. IF IT'S TRUE IT'S IN THE INQUIRER'. Carney is onstage next to his press when William, Sacharissa, Gunilla and Boddony burst on.
+
+Carney Why, Sacharissa, what can I do for you? May I say how sad I was to hear about the fire?
+
+William de Worde It's your office. You can say anything you like.
+
+Sacharissa (to William) Don't be like that, William. (To Carney.) It's because of that we've come to see you, Ronnie.
+
+Carney Is there anything I can do?
+
+Sacharissa Well, I did hope, I wondered if . . . I mean, d'you think you could see your way clear to . . . letting us use one of your presses tonight?
+
+Carney You what? Are you mad?
+
+Sacharissa (sadly) Yes, I thought you'd probably say that.
+
+Carney puts a comforting arm around her shoulder.
+
+Carney I know we used to play together as children.
+
+Sacharissa's Ad? in her handbag as she speaks.
+
+Sacharissa I don't think we actually played together. You used to chase me and I used to hit you over the head with a wooden cow. Ah, here it is . . .
+
+She whips out M r Yin's gonne and points it at Carney's head.
+
+Let us use your 'ing' press or I'll blow your 'ing' head off! I think that's how you're supposed to say it, isn't it?
+
+Carney You wouldn't dare!
+
+Sacharissa It was a lovely cow, too. One day I had to hit you so hard one of the legs broke off.
+
+Carney (to William) Can't you talk some sense into her?
+
+William de Worde We just need the loan of one of your presses for an hour or so, Mr Carney. And then we'll be gone.
+
+He nods at Gunilla, who, with Boddony, ties Carney up and gags him.
+
+Carney What are you doing?
+
+William de Worde Well, first we'll tie you up.
+
+He pulls out a bag of jewels which he places on the press.
+
+Two thousand dollars' worth. At least. Our admission to the Guild. I'll just leave them here, shall I? No need for a receipt.
+
+Sacharissa pulls the trigger. The gonne isn't loaded. Carney whimpers.
+
+Sacharissa I must've forgotten to put the pointy arrow bit in. 'Ing'. I feel so much better for saying that, you know? 'Ing'. 'Inginginginging'. I wonder what it means? Take him away please, Boddony.
+
+Boddony leads Carney out and then re-enters.
+
+William de Worde All right, Gunilla, let's go. Triple decker headline: 'CONSPIRACY REVEALED'. Next line 'LORD VETINARI IS INNOCENT'. Then: 'A plot to illegally seize control of Ankh-Morpork was exposed last night after days of patient detective work by the Watch. Paragraph. The Times understands that two assassins, both now dead, were hired from outside the city to blacken the character of Lord Vetinari and depose him as Patrician. Paragraph. They used an innocent man with a remarkable resemblance to Lord Vetinari in order to trick their way into the Palace. Once inside . . . '
+
+Gunilla (working away with the type) Hold on - the Watch didn't get to the bottom of this -you did!
+
+William de Worde I only said they'd been working on it for days. That's true. I don't have to say they weren't getting anywhere. Look, I'd rather Vimes was angry with me for making him look good than for making him look bad. Where was I? Oh yes, 'Once inside . . .' no, make it, 'The Times understands that Lord Vetinari was . . .' Sacharissa, you say this man looked exactly like Lord Vetinari?
+
+Sacharissa Yes, haircut and everything.
+
+William de Worde Right. ' The Times understands that Lord Vetinari was overwhelmed in the moment of shock on seeing himself entering his own office. The plan was foiled by Lord Vetinari's dog, Wuffles, sixteen, who attacked both men. Paragraph. The noise of this attracted the attention of Lord Vetinari's clerk, Rufus Drumknott . . .' damn, I forgot to ask him how old he was '. . . who was then knocked unconscious. Paragraph. The attackers tried to put the interruption to good use in their . . .' what's a good word . . . 'dastardly plan and stabbed Drumknott with one of Lord Vetinari's own daggers in an attempt to make it look as if he were insane or murderous. Paragraph. Acting with vicious cunning . . .'
+
+Sacharissa You're getting really good at this!
+
+Boddony Don't interrupt - 1 want to find out what the dastards did next!
+
+William de Worde '. . . with vicious cunning they forced the bogus Lord Vetinari to make a false confession to some servants, who had been attracted by the noise. Then all three, carrying the unconscious Lord Vetinari and harried by the dog Wuffles, sixteen, took the stairs to the stables. Paragraph. There they had set up a scene to suggest that Lord Vetinari had been trying to rob the city, as already reported in . . . '
+
+Sacharissa 'Exclusively reported in . . .'
+
+William de Worde Right . . . 'exclusively reported in The Times. However, the dog Wuffles, sixteen, escaped, leading to a city-wide search by Watch and criminals alike. He had, however, been rescued by a group of public-spirited citizens.' Let's see how that looks so far.
+
+He looks at the print.
+
+Sacharissa Are you sure of all this, William?
+
+William de Worde I'm sure it's all journalism.
+
+Sacharissa But do you know the names of these people?
+
+William de Worde Gunilla, you can insert a paragraph anywhere in the story, can't you?
+
+Gunilla Not a problem.
+
+William de Worde Right, then set this: 'The Times can reveal that the assassins were hired by a group of prominent citizens led by . . . The Times can reveal that. . .' (He takes a deep breath) Start again. 'The plotters, The Times can reveal, were headed by . . .' (He shakes his head) 'Evidence points to the, er . . . 'Evidence, The Times can reveal . . .'
+
+Gunilla Is this going to be a long paragraph?
+
+William de Worde No. Leave it. Put in a line that The Times will be helping the Watch with its inquiries.
+
+Sacharissa (pulling him DS) Is there something you want to talk about?
+
+William de Worde No.
+
+Sacharissa Do you know who the conspirators are?
+
+William de Worde No.
+
+Sacharissa Then would it be true to say that you suspect you know who the conspirators are?
+
+William de Worde Are you trying journalism on me? (He sighs) 'A lie can run round the world before the truth has got its boots on.' That's what the Disorganiser heard Slant say his clients had said to him. It's my father's favourite saying. Those men had the run of our house. My father's in this up to his neck! And if he's involved, he'll be the leader - the de Wordes wouldn't be on any team unless they're captain.
+
+Sacharissa It would be a bit silly, though, to let them use his own house . . .
+
+William de Worde Arrogant. Not silly. Arrogant. He doesn't think the ordinary laws apply to people like him. But . . . I must have got something wrong. Even my father couldn't have been this stupid. I'm going to go and see him.
+
+He exits as Otto enters, followed by Trixiebell.
+
+Otto William? (To Sacharissa.) Vot voz all zat about?
+
+Sacharissa Oh, he's off to see his father, who is not, it seems, a very nice person.
+
+Gaspode 'Scuse me.
+
+Sacharissa and Otto look round but see no-one.
+
+No, down here. Let's not mess around, eh? Dogs can't talk, right? Got it in one. So maybe you two have some strange mental power. That's that sorted out, then. Now look, that lad's heading into trouble. I can smell trouble . . .
+
+Otto Are you some kind of vere volf?
+
+Gaspode That's right, I get hairy every full moon imagine how much that interferes with my social life. Now, look . . .
+
+Sacharissa But surely dogs can't talk?
+
+Gaspode Oh dear, oh dear. Did I say I was talking?
+
+Sacharissa Well, not in so many words.
+
+Gaspode Right. Now, I just seen a hundred dollars of my money walk out of here into terrible danger and I want to see it walk back. Dangerous man, Lord de Worde.
+
+Sacharissa But he wouldn't hurt William, would he?
+
+Gaspode I'm not a betting man. But if he does, we still get the hundred dollars, right?
+
+Otto Ve cannot stand by und let him do zis. I like Villiam. He tries to be a nice person. Ve must help him.
+
+They exit as the lights black out.
+
+Scene Twelve
+
+Back at the deserted house. William enters, with a lantern. Lord de Worde appears silently before him.
+
+Lord de Worde Ah, William. I thought you'd come here. I think this nonsense has got to stop now, don't you?
+
+William de Worde I think it is stopping, father. I just want to hear the truth from you.
+
+Lord de Worde (with a sigh) The truth? I just had the best interests of the city at heart, you know.
+
+William de Worde Well, that's where it becomes difficult, doesn't it? I mean, everyone says that kind of thing, don't they? 'I did it for the best', 'The end justifies the means' . . .
+
+Lord de Worde But don't you agree it's time for a ruler who listens to the people?
+
+William de Worde (taking out his notebook) Maybe. Which people did you have in mind?
+
+Lord de Worde You're going to put this in that rag of a news paper, aren't you? You can't prove anything. You know that.
+
+William de Worde I can prove enough. The rest will become a matter of . . . inquiry. Vimes, you know, is called Vetinari's little terrier. He'll dig and dig and he won't let go.
+
+Lord de Worde puts his hand on his sword.
+
+Lord de Worde You have no honour, do you? Well publish and be damned to you. And the Watch. We gave no order to . . .
+
+William de Worde I expect you didn't. I expect you said 'make it so' and left all the details to Pin and Tulip. Bloody hands at arms' length.
+
+Lord de Worde As your father, I order you to stop this . . .
+
+William de Worde You used to order me to tell the truth.
+
+Lord de Worde Oh, William, William! Don't be so naive!
+
+William de Worde And which truth is this? The truth that is stranger than fiction? Or the truth that's still putting its boots on when a rumour is running round the world? I think Mr Pin was going to try to blackmail you and, you know, so am I, naive as I am. You're going to leave the city. Right now. And you'd better hope that nothing happens to me, or anyone I know.
+
+Lord de Worde Really?
+
+William de Worde (shouting) Right now! Have you gone deaf as well as insane? Right now and don't come back because if you do I'll publish every damn word you've just said. (He pulls out the Disorganiser.) Every damn word! And not even Mr Slant will be able to grease your way out of that! Get out of the city! Now, either draw that sword or take . . . your . . . hand off it! (Quieter) The truth has got its boots on. And it's going to start kicking. I told you to take your hand off that sword.
+
+Lord de Worde So silly. So silly. And I believed you were my son.
+
+William de Worde Oh yes, that reminds me. You know one of the dwarfs' customs? No, of course you don't because they're not really people to you, are they?
+
+He takes out a bag of jewels and throws it at Lord de Worde's feet.
+
+Lord de Worde And this is . . . ?
+
+William de Worde There's more than twenty thousand in there. That must cover everything I've cost you, over the years. School fees, clothes, everything. I'm buying myself off, you see.
+
+Lord de Worde Oh I see. The dramatic gesture. Do you really think family is a matter of money?
+
+William de Worde Well, yes. Money, land, titles. It's amazing how infrequently de Wordes marry someone who hasn't at least two out of three. I got that money off a man who tried to kill me.
+
+Lord de Worde (surprised) Tried to kill you?
+
+William de Worde Why, yes. You're surprised? If you throw something in the air, don't you have to worry where it bounces?
+
+Lord de Worde Indeed you do.
+
+He gestures and four thugs enter.
+
+You've been overdoing it. You need a holiday. A long sea voyage. Small sums of money will be sent to you periodically.
+
+The thugs take a step towards William. Otto appears, suddenly.
+
+Otto (speaking to one of the thugs) Good evenink. Oh, vot am I thinking of? Put zem up in zer traditional Ankh-Morpork vay.
+
+Thug Put them up? Blow that!
+
+Strobe. Fight. Otto flattens each of the thugs. He then turns to Lord de Worde,, crossing to him and 'lifting' him off his feet.
+
+Otto Ve haf people like you back home. Zey are zer vuns who tell zer mob vot to do. I come to Ankh-Morpork because I hear it is different, but always zere are zer same damn people. Vot shall I do viz you?
+
+He looks down at his jacket and pulls off his temperance badge.
+
+Zere. I never liked zat damn cocoa anyvay.
+
+William de Worde Otto!
+
+Otto You think I bite him? Shall I bite you, Mr Lordship? Veil, maybe not, because Villiam here sinks I am a good person.
+
+He pulls Lord de Worde to him.
+
+Now, maybe I not have to ask myself how good am I? I just have to ask myself, am I better zanyou?
+
+He pauses a second, then pulls Lord de Worde to him and kisses him on the forehead. He releases him and pats him on the head.
+
+Actually, maybe zer cocoa is not too bad and zer young lady who plays zer harmonium, sometimes she vinks at me.
+
+Lord de Worde How dare you . . . !
+
+William de Worde Shut up! Now I'll tell you what's going to happen. I'm not going to name names. That's my decision. I don't want my mother to have been married to a traitor, you see. I'm not going to tell the whole truth. But those who want to know these things will find out soon enough. And I expect they'll sort something out quietly. You know . . . just like you do.
+
+Lord de Worde (offended) Traitor? (William nods) I could not possibly take the money. I wish you joy of it, my son. Because you are most certainly a de Worde. Good day to you.
+
+He walks quietly out.
+
+Otto Are you OK, Villiam?
+
+William de Worde I feel sick but, yeah, I'm all right. Of all the bone-headed, stubborn, self-centred, arrogant . . .
+
+Otto But you make up for it in ozzer vays.
+
+William de Worde I meant my father!
+
+Otto Oh.
+
+William de Worde He's just so certain he's right all the time . . .
+
+Otto Sorry, this is still your father ve're talking about?
+
+William de Worde Are you saying I'm like him?
+
+Otto Oh no. Qyite different. Absolutely qvite different. No similarities votsoever.
+
+William de Worde OK. Did I say thank you?
+
+Otto No.
+
+William de Worde Oh dear.
+
+Otto But you noticed zat you did not and zat is good, yes? So, now it is time for medals and avards, yes?
+
+William de Worde Not quite. I must nip back to my lodgings to freshen up. And then I think I may have some explaining to do to Commander Vimes back at the press.
+
+Blackout.
+
+Scene Thirteen
+
+The lodgings. Mrs Arcanum, Mrs Mackleduff and Mr Cartwright are on. Mrs Mackleduff is reading the latest issue of The Times. William enters as soon as he can get there.
+
+Mrs Arcanum What happened to the real paper, then?
+
+Mrs Mackleduff Couldn't get it, so I had to get us this one instead.
+
+She hands copies to Mrs Arcanum and Mr Cartwright.
+
+Cartwright Anything in it?
+
+Mrs Mackleduff Oh . . . Lord Vetinari got away with it.
+
+Cartwright Well, of course he would. Very clever man, so they say.
+
+Mrs Arcanum (calling, off) Is that you, Mr de Worde? Cup of tea?
+
+William de Worde (entering Er . . . no thanks, Mrs Arcanum. No time. Oh, what's in the paper then?
+
+Cartwright Lot of political stuff. All a bit far-fetched. Vetinari got off.
+
+Mrs Mackleduff Any good vegetables today?
+
+Cartwright No. My firm's thinking of approaching that man to see if we can sell his seeds for him. Only those vegetables suitable for a family environment of course, Mrs Arcanum.
+
+William de Worde Surely it's quite important? If Vetinari's not guilty?
+
+Mrs Arcanum I've always thought Lord Vetinari was a most handsome man. (She coughs, embarrassedly) I mean, I've always wondered why there isn't a Lady Vetinari, as it were. Ahem.
+
+Cartwright Oh well, you know what they say.
+
+William de Worde bangs on the table, then grabs Mr
+
+Cartwright by his lapels.
+
+William de Worde No, Mr Cartwright, I don't know what they say! But you know what they say! Why don't you tell us what they say? And tell us who told you??
+
+Mrs Arcanum Mr de Worde! Really!
+
+William de Worde I'm very sorry, Mrs Arcanum, but I want to know what everyone knows and I want to know how they know it. Mr Cartwright?
+
+Cartwright Well. They say he's got some sort of lady friend who's very important in uberwald.
+
+William de Worde That's it? So what? It's a friendly country! Look! /wrote that article in The Timesl Me! I found things out, checked things and people tried to kill me! I'm not the man who's the brother of some man you met in the pub! I'm not some stupid rumour put about to make trouble! So just remember that before you start that 'everyone knows' stuff! And I've got to go right now to see Commander Vimes and whoever's the Patrician and try to sort this lot out! All because I wanted people to know things that are important!
+
+Mrs Mackleduff You write this?
+
+William de Worde Yes!
+
+Mrs Mackleduff I thought they had . . . special people . . .
+
+William de Worde There isn't a they. There's just me and a young lady. We write it all!
+
+Mrs Arcanum But who tells you what to put in?
+
+William de Worde We just decide.
+
+Mr Cartwright raises his hand.
+
+Yes, Mr Cartwright?
+
+Cartwright I've quite an important question, actually, what with you knowing all this stuff . . .
+
+William de Worde Yes?
+
+Cartwright Have you got the address of the funny vegetable man?
+
+Blackout.
+
+Scene Fourteen
+
+Carney's print room. William, Sacharissa, Otto, Gunilla, Boddony, Vimes and Angua are on. Vimes is reading the current issue. William looks over his shoulder.
+
+Vimes It's very good. But I need to know names. I think you know the names. And where they met. Things like that.
+
+William de Worde Some things are a mystery to me. But you've more than enough evidence to release Lord Vetinari.
+
+Vimes I need to know more. Come on, Mr de Worde, we're on the same side.
+
+William de Worde No. We're on different sides that happen to be side by side.
+
+Vimes You assaulted one of my officers.
+
+William de Worde Really? They weren't in uniform. They didn't identify themselves to me.
+
+Vimes I could arrest you for withholding evidence.
+
+William de Worde I demand a lawyer.
+
+Vimes Who?
+
+William de Worde Mr Slant.
+
+Vimes Slant will come out for you?
+
+William de Worde Yep. Guaranteed.
+
+Vimes Look, we don't really need all this, do we? It's the duty of every citizen to help the Watch.
+
+William de Worde I know the Watch think it is. But I've never seen that written down.
+
+Vimes I have reason to believe that you are withholding information about a major crime and that is an offence.
+
+William de Worde Mr Slant will come up with something. He'll go back hundreds of years if need be.
+
+Vimes Between you and me, and without your notebook, Mr Slant is a devious dead bastard who can bend such law as we have into a puzzle ring.
+
+William de Worde Yep. And he's my lawyer. Guaranteed.
+
+Vimes I could just take you into protective custody.
+
+William de Worde Protecting from whom?
+
+Vimes Well, I personally have an overwhelming urge to give you a ding alongside the ear, but I suspect there are others out there without my self-control.
+
+Slant enters.
+
+Slant Ah, Vimes. I heard you were harassing my client.
+
+Vimes He is withholding information.
+
+Slant I would argue that if withholding information from the Watch were a crime, then every citizen would be guilty. Might I speak to my client in private?
+
+He and William move to one side.
+
+William de Worde Mr Slant, I do not wish to tell Commander Vimes how and where I get my information. If I have to, I will have to reveal all of it.
+
+Slant (clearing his throat) You really believe those two men had accomplices?
+
+William de Worde draws the Disorganiser out of his pocket.
+
+William de Worde I'm sure of it. I'd say it was a matter of . . . record.
+
+Slant Such a witchhunt would not be in the public interest. This is, I would suggest, a time for reconciliation.
+
+William de Worde Good. So you will be able to have a quiet word with Commander Vimes?
+
+Slant But of course . . .
+
+William de Worde And will you have one of your special private words in the ear of the Engravers Guild?
+
+Slant I shall do my best. And, of course, for such an . . . honoured client . . . I would be prepared to reduce my fee to . . .
+
+William de Worde Nothing.
+
+Slant Er . . . yes, quite.
+
+William de Worde And was Mr Scrope elected as Patrician?
+
+Slant Yes.
+
+William de Worde By the unanimous vote of the Guilds?
+
+Slant I don't think I have to tell you . . .
+
+William pulls out the Disorganiser.
+
+The Beggars and the Seamstresses voted to adjourn. So did the Launderers and the Guild of Exotic Dancers.
+
+William de Worde So that would be Queen Molly, Mrs Palm, Mrs Manger and Miss Dixie Voom. What an interesting life Lord Vetinari must have lead.
+
+Slant No comment. But that is, in fact, the reason I am here. I came to see Commander Vimes.
+
+They move back over to Vimes.
+
+Vimes Oh?
+
+Slant Mr Scrope has in fact been taken ill. He sent a note.
+
+William de Worde Was it signed by his mother?
+
+Slant I'm sorry?
+
+William de Worde So - does the city not have a ruler?
+
+Slant Happily, Lord Vetinari is not only innocent of all charges but feeling much better after the vicious attack. He said that he will be at the helm momentarily.
+
+William de Worde Splendid. So, er, Commander? Do you and I have anything further to discuss?
+
+Vimes Not right at this moment.
+
+William de Worde Well I must start work on the next edition. The right to free speech is a fine old Ankh-Morpork tradition.
+
+Vimes Is it? Is it really? How did that one survive when helping the Watch didn't?
+
+Slant I couldn't say, your grace. But Mr de Worde is, I believe, a young man who would not go out of his way to upset the smooth running of the city?
+
+William smiles and bows, slightly. Blackout.
+
+Lights up. The next day. William is on. Boddony and Gunilla are at work on the press, watched by Sacharissa. Lord Vetinari enters.
+
+Lord Vetinari No, please don't bother. This is meant to be an informal visit.
+
+William de Worde Are you all right, sir?
+
+Lord Vetinari Oh yes. Busy, of course. Such a lot of reading to catch up on. But I thought I should take a moment to come and see this free press Commander Vimes told me about at such length. However, it appears to be firmly bolted down.
+
+William de Worde Er, no, sir. 'Free' in the sense of what is printed, sir.
+
+Lord Vetinari But surely you charge money?
+
+William de Worde Yes, but . . .
+
+Lord Vetinari Oh, I see. You meant you should be free to print what you like?
+
+William de Worde (carefully) Well . . . broadly, yes, sir.
+
+Lord Vetinari Because that's what's in the . . . What was the other interesting term? Oh yes . . . the public interest?
+
+William de Worde I think so, sir.
+
+Lord Vetinari Stories about man-eating goldfish and husbands disappearing in silver dishes?
+
+William de Worde No, that's what the public is interested in, sir. We do the other stuff.
+
+Lord Vetinari Amusingly-shaped vegetables?
+
+William de Worde Well, yes, sir, but at least they're real vegetables.
+
+Lord Vetinari So - we have what the public are interested in, and human interest stories, which is what humans are interested in, and the public interest, which no-one is interested in?
+
+William de Worde Er . . . except the public.
+
+Lord Vetinari Which isn't the same as people and humans? You mean that the public is a different thing from the public you see walking about the place. The public thinks big, sensible, measured thoughts while people run around doing silly things?
+
+William de Worde I think so. Though I may have to work on that idea.
+
+Lord Vetinari Well, I can see you have an eventful future ahead of you and I wouldn't wish to make it any more difficult than it is clearly going to be.
+
+He glances over at the text being set by Boddony.
+
+That's 'i' before 'e' except after 'c', I think you'll find.
+
+Boddony But how . . . ?
+
+Lord Vetinari Things that are back to front are often easier to comprehend if they are upside down as well. In life as in politics.
+
+William de Worde What have you done with Charlie?
+
+Lord Vetinari Why nothing. Should I have done something?
+
+Sacharissa Have you locked him up in a deep, dark cell and make him wear a mask all the time?
+
+Lord Vetinari Er, no, I don't think so. Although it would make a very good story, I've no doubt. No, I understand he's enrolled in the Guild of Actors. I forsee a happy career for him - children's parties and so on.
+
+Sacharissa What . . . being you?
+
+Lord Vetinari Indeed. Very risible. Any more questions, Mr de Worde?
+
+William de Worde Lots. The Times will be taking a close interest in civic affairs.
+
+Lord Vetinari How commendable. I'm sure Drumknott will be able to find space for you in my schedule . . .
+
+William de Worde Whenever your lordship wishes for an interview, The Times will be quite prepared to grant you one.
+
+Lord Vetinari The Times? Oh, you mean you and this young lady here? Oh I see. It's like 'The Public'.
+
+William de Worde I'm sure we can pull together, sir.
+
+Lord Vetinari Oh, I do hope not. Pulling together is the aim of despotism and tyranny. Free men pull in all kinds of directions. It's the only way to make progress. That and, of course, moving with . . . the times. Good day to you.
+
+He exits.
+
+William de Worde Right. Well, where are the new reporters?
+
+Sacharissa I've sent them out to find out things that people want to put in the paper.
+
+William de Worde And things people don't want to see in the paper.
+
+Sacharissa And interesting things like that rain of dogs a few days ago?
+
+William de Worde One puppy fell out of an upstairs window. Let's stick to the facts, shall we? News is . . . News all depends. We'll know it when we see it. (He shakes his head) No. Let's go.
+
+Effect of pulsing light on the press, plus sound effect - to give the impression that the press is a living organism.
+
+Sacharissa What?
+
+William de Worde Let's go. Out. Now - for a cup of tea, or a walk, or shopping. Come on, before it realises. Before it finds a way to stop us.
+
+Sacharissa What are you talking about? There's a lot of work to do!
+
+William de Worde It'll still be there tomorrow . . . I mean, would it really matter if you and I took an afternoon off? It doesn't say anywhere that we have to publish every day, does it?
+
+Sacharissa Except at the top of the news paper.
+
+William de Worde But you can't believe everything you read in the papers!
+
+Sacharissa Well, I suppose it wouldn't hurt, for an hour or so . . .
+
+William de Worde Come on!
+
+As he turns to exit with Sacharissa, Samuel Arblaster runs in, followed by Florrie Perry.
+
+Arblaster Quick, oh quick! It was a terrible scene!
+
+William de Worde Who are you?
+
+Arblaster Samuel Arblaster, forty-three, stone-mason of l lb the Scours. A-Watch-man-made-a-death-defying-leap-to-rescue-an-old-lady.
+
+Florrie I saw it, too. Mrs Florrie Perry, blonde mother of three, from Treacle Mine Road. It-was-a-scene-of-car-nage.
+
+William de Worde But . . .
+
+Florrie and Arblaster cross to the press.
+
+Sacharissa Look at it this way. Some people are heroes. And some people take down notes. And sometimes they're the same person.
+
+William de Worde You think that's really true?
+
+Sacharissa Really true? (She shrugs) Who knows? This is a news paper, isn't it? It just has to be true until tomorrow.
+
+William de Worde Are you . . . sure?
+
+Sacharissa Oh yes. True until tomorrow is good enough for me.
+
+William de Worde Right. That press needs feeding. It's always hungry.
+
+Sacharissa And nothing has to be true forever - just for long enough, to tell you the truth. Come on . . .
+
+Sacharissa starts to run off.
+
+William de Worde (calling off-stage to Gunilla) Gunilla? There's a hot story coming in - hold the front page!
+
+He starts to run off as the lights black out.
+
+
+
+
+
